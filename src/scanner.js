@@ -1,25 +1,23 @@
 // Scanner que lê o NOME do jogador na figurinha
 // (não o código, porque a figurinha física não tem código impresso)
-//
-// Estratégia:
-// 1. Captura frame da câmera
-// 2. Pré-processa (escala cinza, contraste, recorte da região do nome)
-// 3. Roda Tesseract com whitelist de caracteres
-// 4. Casa o resultado contra a base de nomes usando distância de Levenshtein
-// 5. Retorna top 3 candidatos ordenados por similaridade
 
 import { createWorker } from 'tesseract.js'
 
 let _worker = null
 
-export async function getWorker() {
+export async function getWorker(onProgress) {
   if (_worker) return _worker
   _worker = await createWorker('por', 1, {
-    // logger: m => console.log(m),
+    logger: m => {
+      if (onProgress && m.status) {
+        onProgress(m.status, m.progress)
+      }
+    },
   })
   await _worker.setParameters({
-    tessedit_char_whitelist: "ABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÂÊÔÃÕÇ'- ",
-    tessedit_pageseg_mode: '7', // single text line
+    tessedit_char_whitelist: "ABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÂÊÔÃÕÇ'-. ",
+    // psm 6 = uniform block of text. Aceita várias linhas, melhor que psm 7 quando enquadrarmos a figurinha inteira
+    tessedit_pageseg_mode: '6',
   })
   return _worker
 }
@@ -52,7 +50,6 @@ export function levenshtein(a, b) {
   return dp[m][n]
 }
 
-// Similaridade 0..1
 export function similarity(a, b) {
   if (!a && !b) return 1
   const maxLen = Math.max(a.length, b.length)
@@ -71,37 +68,69 @@ export function normalizeName(name) {
     .trim()
 }
 
-// Recebe texto OCR e a lista de figurinhas [{code, name}], retorna top 3 candidatos
+// Tokeniza em "palavras úteis" (>= 2 chars)
+function tokens(s) {
+  return normalizeName(s).split(' ').filter(p => p.length >= 2)
+}
+
+// Score palavra a palavra: para cada token alvo, melhor match no nome candidato.
+// Isso torna o matching MUITO mais tolerante a lixo no OCR.
+function tokenScore(target, candidate) {
+  const tTokens = tokens(target)
+  const cTokens = tokens(candidate)
+  if (!tTokens.length || !cTokens.length) return 0
+  
+  let total = 0
+  let matched = 0
+  for (const tt of tTokens) {
+    // Procurar melhor match
+    let best = 0
+    for (const ct of cTokens) {
+      // Similaridade entre tokens
+      const sim = similarity(tt, ct)
+      // Bônus se um contém o outro
+      const contained = (ct.includes(tt) || tt.includes(ct)) ? 0.2 : 0
+      const score = Math.min(1, sim + contained)
+      if (score > best) best = score
+    }
+    if (best > 0.6) matched++
+    total += best
+  }
+  // Score médio dos tokens, com bônus por número de matches
+  const avg = total / tTokens.length
+  const matchRatio = matched / tTokens.length
+  return avg * 0.5 + matchRatio * 0.5
+}
+
+// Recebe texto OCR e a lista de figurinhas [{code, name}], retorna top candidatos
 export function matchName(ocrText, stickers) {
   const target = normalizeName(ocrText)
-  if (!target || target.length < 3) return []
+  if (!target || target.length < 2) return []
   
   const scored = stickers
     .filter(s => s.name && s.name.length > 1)
     .map(s => {
       const normName = normalizeName(s.name)
-      // Score base: similaridade completa
-      let score = similarity(target, normName)
-      // Bônus se o target está contido no nome ou vice-versa
-      if (normName.includes(target) || target.includes(normName)) {
-        score = Math.max(score, 0.85)
-      }
-      // Bônus por palavras compartilhadas (último nome em geral é o mais identificador)
-      const targetParts = target.split(' ').filter(p => p.length > 2)
-      const nameParts = normName.split(' ').filter(p => p.length > 2)
-      const shared = targetParts.filter(t => nameParts.some(n => n === t)).length
-      if (shared > 0) {
-        score += shared * 0.15
-      }
-      return { ...s, score: Math.min(score, 1) }
+      // 1. Score global (Levenshtein da string toda)
+      let scoreGlobal = similarity(target, normName)
+      // 2. Score por tokens (palavra a palavra)
+      const scoreTokens = tokenScore(target, s.name)
+      // 3. Contém substring grande?
+      let scoreContains = 0
+      if (target.length >= 4 && normName.includes(target)) scoreContains = 0.9
+      else if (normName.length >= 4 && target.includes(normName)) scoreContains = 0.85
+      
+      // Score final = melhor das três estratégias
+      const score = Math.max(scoreGlobal, scoreTokens, scoreContains)
+      return { ...s, score }
     })
-    .filter(s => s.score > 0.45) // corte para não devolver lixo
+    .filter(s => s.score > 0.30) // limiar bem baixo — devolve mais opções, usuário escolhe
     .sort((a, b) => b.score - a.score)
   
-  return scored.slice(0, 5)
+  return scored.slice(0, 8)
 }
 
-// Pré-processa o canvas — aumenta contraste para o OCR
+// Pré-processa: escala cinza, AUTO-INVERSÃO se for texto claro em fundo escuro, threshold adaptativo
 export function preprocessCanvas(srcCanvas) {
   const dst = document.createElement('canvas')
   dst.width = srcCanvas.width
@@ -112,33 +141,47 @@ export function preprocessCanvas(srcCanvas) {
   const img = ctx.getImageData(0, 0, dst.width, dst.height)
   const data = img.data
   
-  // Escala cinza + ganho de contraste + binarização suave
-  for (let i = 0; i < data.length; i += 4) {
-    const gray = 0.299 * data[i] + 0.587 * data[i + 1] + 0.114 * data[i + 2]
-    // Contraste: empurrar para os extremos
+  // Primeira passada: converter para cinza e calcular brilho médio
+  let sum = 0
+  const grays = new Uint8ClampedArray(data.length / 4)
+  for (let i = 0, j = 0; i < data.length; i += 4, j++) {
+    const g = 0.299 * data[i] + 0.587 * data[i + 1] + 0.114 * data[i + 2]
+    grays[j] = g
+    sum += g
+  }
+  const mean = sum / grays.length
+  
+  // Se imagem é mais escura que clara, inverter (texto claro vira escuro)
+  const invert = mean < 110
+  
+  // Threshold adaptativo simples: tudo abaixo da média - margem vira preto, acima + margem vira branco
+  const lo = mean - 20
+  const hi = mean + 20
+  for (let i = 0, j = 0; i < data.length; i += 4, j++) {
+    let g = grays[j]
+    if (invert) g = 255 - g
+    // contraste agressivo: empurra para extremos
     let v
-    if (gray < 100) v = Math.max(0, gray - 30)
-    else if (gray > 160) v = Math.min(255, gray + 30)
-    else v = gray
+    if (g < lo) v = 0
+    else if (g > hi) v = 255
+    else v = g
     data[i] = data[i + 1] = data[i + 2] = v
   }
   ctx.putImageData(img, 0, 0)
   return dst
 }
 
-// Captura um frame de <video>, recorta a faixa onde geralmente está o nome,
-// e devolve o canvas processado pronto para OCR
-export function captureNameRegion(videoEl) {
+// Captura a área enquadrada pelo usuário (retângulo amarelo).
+// Recebe o vídeo e as proporções do retângulo (0..1 em x, y, w, h).
+export function captureRegion(videoEl, frame = { x: 0.1, y: 0.1, w: 0.8, h: 0.8 }) {
   const w = videoEl.videoWidth
   const h = videoEl.videoHeight
   if (!w || !h) return null
   
-  // A faixa do nome fica no terço inferior da figurinha,
-  // mais ou menos a parte central horizontal
-  const cropX = Math.floor(w * 0.05)
-  const cropY = Math.floor(h * 0.62)
-  const cropW = Math.floor(w * 0.90)
-  const cropH = Math.floor(h * 0.20)
+  const cropX = Math.floor(w * frame.x)
+  const cropY = Math.floor(h * frame.y)
+  const cropW = Math.floor(w * frame.w)
+  const cropH = Math.floor(h * frame.h)
   
   const canvas = document.createElement('canvas')
   canvas.width = cropW
@@ -148,3 +191,25 @@ export function captureNameRegion(videoEl) {
   
   return preprocessCanvas(canvas)
 }
+
+// Captura SEM pré-processamento (para debug visual)
+export function captureRegionRaw(videoEl, frame = { x: 0.1, y: 0.1, w: 0.8, h: 0.8 }) {
+  const w = videoEl.videoWidth
+  const h = videoEl.videoHeight
+  if (!w || !h) return null
+  
+  const cropX = Math.floor(w * frame.x)
+  const cropY = Math.floor(h * frame.y)
+  const cropW = Math.floor(w * frame.w)
+  const cropH = Math.floor(h * frame.h)
+  
+  const canvas = document.createElement('canvas')
+  canvas.width = cropW
+  canvas.height = cropH
+  const ctx = canvas.getContext('2d')
+  ctx.drawImage(videoEl, cropX, cropY, cropW, cropH, 0, 0, cropW, cropH)
+  return canvas
+}
+
+// Mantém compatibilidade com nome antigo
+export const captureNameRegion = captureRegion
