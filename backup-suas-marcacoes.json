@@ -1,0 +1,6066 @@
+{
+  "Abertura (00 + FWC)": [
+    [
+      "00",
+      "Panini Logo",
+      true,
+      0
+    ],
+    [
+      "FWC 1",
+      "Official Emblem",
+      false,
+      0
+    ],
+    [
+      "FWC 2",
+      "Official Emblem 2",
+      false,
+      0
+    ],
+    [
+      "FWC 3",
+      "Official Mascots",
+      false,
+      0
+    ],
+    [
+      "FWC 4",
+      "Official Slogan",
+      false,
+      0
+    ],
+    [
+      "FWC 5",
+      "Official Ball",
+      false,
+      0
+    ],
+    [
+      "FWC 6",
+      "País Sede - Canada",
+      false,
+      0
+    ],
+    [
+      "FWC 7",
+      "País Sede - Mexico",
+      true,
+      0
+    ],
+    [
+      "FWC 8",
+      "País Sede - USA",
+      false,
+      0
+    ],
+    [
+      "FWC 9",
+      "Copa do Mundo - Italy 1934",
+      true,
+      0
+    ],
+    [
+      "FWC 10",
+      "Copa do Mundo - Uruguay 1950",
+      false,
+      0
+    ],
+    [
+      "FWC 11",
+      "Copa do Mundo - West Germany 1954",
+      false,
+      0
+    ],
+    [
+      "FWC 12",
+      "Copa do Mundo - Brazil 1962",
+      true,
+      1
+    ],
+    [
+      "FWC 13",
+      "Copa do Mundo - West Germany 1974",
+      false,
+      0
+    ],
+    [
+      "FWC 14",
+      "Copa do Mundo - Argentina 1986",
+      true,
+      0
+    ],
+    [
+      "FWC 15",
+      "Copa do Mundo - Brazil 1994",
+      false,
+      0
+    ],
+    [
+      "FWC 16",
+      "Copa do Mundo - Brazil 2002",
+      true,
+      1
+    ],
+    [
+      "FWC 17",
+      "Copa do Mundo - Italy 2006",
+      false,
+      0
+    ],
+    [
+      "FWC 18",
+      "Copa do Mundo - Germany 2014",
+      false,
+      0
+    ],
+    [
+      "FWC 19",
+      "Copa do Mundo - Argentina 2022",
+      true,
+      1
+    ]
+  ],
+  "África do Sul (Grupo A)": [
+    [
+      "RSA 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "RSA 2",
+      "Ronwen Williams",
+      true,
+      1
+    ],
+    [
+      "RSA 3",
+      "Sipho Chaine",
+      true,
+      0
+    ],
+    [
+      "RSA 4",
+      "Aubrey Modiba",
+      false,
+      0
+    ],
+    [
+      "RSA 5",
+      "Samukele Kabini",
+      true,
+      0
+    ],
+    [
+      "RSA 6",
+      "Mbekezeli Mbokazi",
+      true,
+      0
+    ],
+    [
+      "RSA 7",
+      "Khulumani Ndamane",
+      true,
+      0
+    ],
+    [
+      "RSA 8",
+      "Siyabonga Ngezana",
+      false,
+      0
+    ],
+    [
+      "RSA 9",
+      "Khuliso Mudau",
+      true,
+      0
+    ],
+    [
+      "RSA 10",
+      "Nkosinathi Sibisi",
+      true,
+      1
+    ],
+    [
+      "RSA 11",
+      "Teboho Mokoena",
+      true,
+      0
+    ],
+    [
+      "RSA 12",
+      "Thalente Mbatha",
+      false,
+      0
+    ],
+    [
+      "RSA 13",
+      "Foto da Equipe - África do Sul",
+      true,
+      0
+    ],
+    [
+      "RSA 14",
+      "Bathasi Aubaas",
+      false,
+      0
+    ],
+    [
+      "RSA 15",
+      "Yaya Sithole",
+      true,
+      0
+    ],
+    [
+      "RSA 16",
+      "Sipho Mbule",
+      true,
+      0
+    ],
+    [
+      "RSA 17",
+      "Lyle Foster",
+      true,
+      1
+    ],
+    [
+      "RSA 18",
+      "Iqraam Rayners",
+      true,
+      1
+    ],
+    [
+      "RSA 19",
+      "Mohau Nkota",
+      true,
+      0
+    ],
+    [
+      "RSA 20",
+      "Oswin Appollis",
+      false,
+      0
+    ]
+  ],
+  "Alemanha (Grupo E)": [
+    [
+      "GER 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "GER 2",
+      "Marc-André ter Stegen",
+      false,
+      0
+    ],
+    [
+      "GER 3",
+      "Jonathan Tah",
+      false,
+      0
+    ],
+    [
+      "GER 4",
+      "David Raum",
+      true,
+      1
+    ],
+    [
+      "GER 5",
+      "Nico Schlotterbeck",
+      false,
+      0
+    ],
+    [
+      "GER 6",
+      "Antonio Rüdiger",
+      false,
+      0
+    ],
+    [
+      "GER 7",
+      "Waldemar Anton",
+      true,
+      0
+    ],
+    [
+      "GER 8",
+      "Ridle Baku",
+      true,
+      1
+    ],
+    [
+      "GER 9",
+      "Maximilian Mittelstadt",
+      false,
+      0
+    ],
+    [
+      "GER 10",
+      "Joshua Kimmich",
+      true,
+      0
+    ],
+    [
+      "GER 11",
+      "Florian Wirtz",
+      false,
+      0
+    ],
+    [
+      "GER 12",
+      "Felix Nmecha",
+      true,
+      0
+    ],
+    [
+      "GER 13",
+      "Foto da Equipe - Alemanha",
+      false,
+      0
+    ],
+    [
+      "GER 14",
+      "Leon Goretzka",
+      false,
+      0
+    ],
+    [
+      "GER 15",
+      "Jamal Musiala",
+      true,
+      0
+    ],
+    [
+      "GER 16",
+      "Serge Gnabry",
+      false,
+      0
+    ],
+    [
+      "GER 17",
+      "Kai Havertz",
+      true,
+      0
+    ],
+    [
+      "GER 18",
+      "Leroy Sane",
+      false,
+      0
+    ],
+    [
+      "GER 19",
+      "Karim Adeyemi",
+      false,
+      0
+    ],
+    [
+      "GER 20",
+      "Nick Woltemade",
+      true,
+      0
+    ]
+  ],
+  "Arábia Saudita (Grupo H)": [
+    [
+      "KSA 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "KSA 2",
+      "Nawaf Alaqidi",
+      false,
+      0
+    ],
+    [
+      "KSA 3",
+      "Abdulrahman Al-Sanbi",
+      true,
+      0
+    ],
+    [
+      "KSA 4",
+      "Saud Abdulhamid",
+      true,
+      0
+    ],
+    [
+      "KSA 5",
+      "Nawaf Bouwashl",
+      false,
+      0
+    ],
+    [
+      "KSA 6",
+      "Jihad Thakri",
+      true,
+      0
+    ],
+    [
+      "KSA 7",
+      "Moteb Al-Harbi",
+      true,
+      0
+    ],
+    [
+      "KSA 8",
+      "Hassan Altambakti",
+      true,
+      2
+    ],
+    [
+      "KSA 9",
+      "Musab Aljuwayr",
+      false,
+      0
+    ],
+    [
+      "KSA 10",
+      "Ziyad Aljohani",
+      false,
+      0
+    ],
+    [
+      "KSA 11",
+      "Abdullah Alkhaibari",
+      false,
+      0
+    ],
+    [
+      "KSA 12",
+      "Nasser Aldawsari",
+      false,
+      0
+    ],
+    [
+      "KSA 13",
+      "Foto da Equipe - Arábia Saudita",
+      true,
+      0
+    ],
+    [
+      "KSA 14",
+      "Saleh Abu Alshamat",
+      true,
+      0
+    ],
+    [
+      "KSA 15",
+      "Marwan Alsahafi",
+      false,
+      0
+    ],
+    [
+      "KSA 16",
+      "Salem Aldawsari",
+      false,
+      0
+    ],
+    [
+      "KSA 17",
+      "Abdulrahman Al-Aboud",
+      false,
+      0
+    ],
+    [
+      "KSA 18",
+      "Feras Akbrikan",
+      true,
+      0
+    ],
+    [
+      "KSA 19",
+      "Saleh Alshehri",
+      false,
+      0
+    ],
+    [
+      "KSA 20",
+      "Abdullah Al-Hamdan",
+      false,
+      0
+    ]
+  ],
+  "Argélia (Grupo J)": [
+    [
+      "ALG 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "ALG 2",
+      "Alexis Guendouz",
+      false,
+      0
+    ],
+    [
+      "ALG 3",
+      "Ramy Bensebaini",
+      false,
+      0
+    ],
+    [
+      "ALG 4",
+      "Youcef Atal",
+      true,
+      0
+    ],
+    [
+      "ALG 5",
+      "Rayan Aït-Nouri",
+      true,
+      0
+    ],
+    [
+      "ALG 6",
+      "Mohamed Amine Tougai",
+      true,
+      0
+    ],
+    [
+      "ALG 7",
+      "Aïssa Mandi",
+      true,
+      0
+    ],
+    [
+      "ALG 8",
+      "Ismael Bennacer",
+      true,
+      1
+    ],
+    [
+      "ALG 9",
+      "Houssem Aquar",
+      false,
+      0
+    ],
+    [
+      "ALG 10",
+      "Hicham Boudaoui",
+      true,
+      0
+    ],
+    [
+      "ALG 11",
+      "Ramiz Zerrouki",
+      false,
+      0
+    ],
+    [
+      "ALG 12",
+      "Nabil Bentalab",
+      true,
+      1
+    ],
+    [
+      "ALG 13",
+      "Foto da Equipe - Argélia",
+      true,
+      0
+    ],
+    [
+      "ALG 14",
+      "Farés Chaibi",
+      true,
+      0
+    ],
+    [
+      "ALG 15",
+      "Riyad Mahrez",
+      true,
+      0
+    ],
+    [
+      "ALG 16",
+      "Said Benrahma",
+      false,
+      0
+    ],
+    [
+      "ALG 17",
+      "Anis Hadj Moussa",
+      true,
+      0
+    ],
+    [
+      "ALG 18",
+      "Amine Gouiri",
+      false,
+      0
+    ],
+    [
+      "ALG 19",
+      "Baghdad Bounedjah",
+      true,
+      1
+    ],
+    [
+      "ALG 20",
+      "Mohammed Amoura",
+      false,
+      0
+    ]
+  ],
+  "Argentina (Grupo J)": [
+    [
+      "ARG 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "ARG 2",
+      "Emiliano Martinez",
+      false,
+      0
+    ],
+    [
+      "ARG 3",
+      "Nahuel Molina",
+      true,
+      0
+    ],
+    [
+      "ARG 4",
+      "Cristian Romero",
+      false,
+      0
+    ],
+    [
+      "ARG 5",
+      "Nicolas Otamendi",
+      true,
+      0
+    ],
+    [
+      "ARG 6",
+      "Nicolas Tagliafico",
+      true,
+      1
+    ],
+    [
+      "ARG 7",
+      "Leonardo Balerdi",
+      true,
+      0
+    ],
+    [
+      "ARG 8",
+      "Enzo Fernandez",
+      true,
+      0
+    ],
+    [
+      "ARG 9",
+      "Alexis Mac Allister",
+      true,
+      0
+    ],
+    [
+      "ARG 10",
+      "Rodrigo De Paul",
+      false,
+      0
+    ],
+    [
+      "ARG 11",
+      "Exequiel Palacios",
+      false,
+      0
+    ],
+    [
+      "ARG 12",
+      "Leandro Paredes",
+      true,
+      0
+    ],
+    [
+      "ARG 13",
+      "Foto da Equipe - Argentina",
+      false,
+      0
+    ],
+    [
+      "ARG 14",
+      "Nico Paz",
+      false,
+      0
+    ],
+    [
+      "ARG 15",
+      "Franco Mastantuono",
+      true,
+      0
+    ],
+    [
+      "ARG 16",
+      "Nico Gonzalez",
+      false,
+      0
+    ],
+    [
+      "ARG 17",
+      "Lionel Messi",
+      true,
+      0
+    ],
+    [
+      "ARG 18",
+      "Lautaro Martinez",
+      true,
+      0
+    ],
+    [
+      "ARG 19",
+      "Julian Alvarez",
+      false,
+      0
+    ],
+    [
+      "ARG 20",
+      "Giuliano Simeone",
+      true,
+      1
+    ]
+  ],
+  "Austrália (Grupo D)": [
+    [
+      "AUS 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "AUS 2",
+      "Mathew Ryan",
+      true,
+      0
+    ],
+    [
+      "AUS 3",
+      "Joe Gauci",
+      true,
+      0
+    ],
+    [
+      "AUS 4",
+      "Harry Souttar",
+      true,
+      0
+    ],
+    [
+      "AUS 5",
+      "Alessandro Circati",
+      false,
+      0
+    ],
+    [
+      "AUS 6",
+      "Jordan Bos",
+      false,
+      0
+    ],
+    [
+      "AUS 7",
+      "Aziz Behich",
+      false,
+      0
+    ],
+    [
+      "AUS 8",
+      "Cameron Burgess",
+      false,
+      0
+    ],
+    [
+      "AUS 9",
+      "Lewis Miller",
+      false,
+      0
+    ],
+    [
+      "AUS 10",
+      "Milos Degenek",
+      false,
+      0
+    ],
+    [
+      "AUS 11",
+      "Jackson Irvine",
+      true,
+      0
+    ],
+    [
+      "AUS 12",
+      "Riley McGree",
+      false,
+      0
+    ],
+    [
+      "AUS 13",
+      "Foto da Equipe - Austrália",
+      false,
+      0
+    ],
+    [
+      "AUS 14",
+      "Aiden O'Neill",
+      false,
+      0
+    ],
+    [
+      "AUS 15",
+      "Connor Metcalfe",
+      false,
+      0
+    ],
+    [
+      "AUS 16",
+      "Patrick Yazbek",
+      true,
+      0
+    ],
+    [
+      "AUS 17",
+      "Craig Goodwin",
+      false,
+      0
+    ],
+    [
+      "AUS 18",
+      "Kusini Vengi",
+      true,
+      0
+    ],
+    [
+      "AUS 19",
+      "Nestory Irankunda",
+      false,
+      0
+    ],
+    [
+      "AUS 20",
+      "Mohamed Touré",
+      false,
+      0
+    ]
+  ],
+  "Áustria (Grupo J)": [
+    [
+      "AUT 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "AUT 2",
+      "Alexander Schlager",
+      false,
+      0
+    ],
+    [
+      "AUT 3",
+      "Patrick Pentz",
+      true,
+      0
+    ],
+    [
+      "AUT 4",
+      "David Alaba",
+      false,
+      0
+    ],
+    [
+      "AUT 5",
+      "Kevin Danso",
+      true,
+      0
+    ],
+    [
+      "AUT 6",
+      "Philipp Lienhart",
+      false,
+      0
+    ],
+    [
+      "AUT 7",
+      "Stefan Posch",
+      false,
+      0
+    ],
+    [
+      "AUT 8",
+      "Phillipp Mwene",
+      true,
+      0
+    ],
+    [
+      "AUT 9",
+      "Alexander Prass",
+      false,
+      0
+    ],
+    [
+      "AUT 10",
+      "Xaver Schlager",
+      false,
+      0
+    ],
+    [
+      "AUT 11",
+      "Marcel Sabitzer",
+      true,
+      0
+    ],
+    [
+      "AUT 12",
+      "Konrad Laimer",
+      true,
+      0
+    ],
+    [
+      "AUT 13",
+      "Foto da Equipe - Áustria",
+      false,
+      0
+    ],
+    [
+      "AUT 14",
+      "Florian Grillitsch",
+      false,
+      0
+    ],
+    [
+      "AUT 15",
+      "Nicolas Seiwald",
+      false,
+      0
+    ],
+    [
+      "AUT 16",
+      "Romano Schmid",
+      true,
+      0
+    ],
+    [
+      "AUT 17",
+      "Patrick Wimmer",
+      false,
+      0
+    ],
+    [
+      "AUT 18",
+      "Christoph Baumgartner",
+      true,
+      0
+    ],
+    [
+      "AUT 19",
+      "Michael Gregoritsch",
+      false,
+      0
+    ],
+    [
+      "AUT 20",
+      "Marko Arnautović",
+      true,
+      0
+    ]
+  ],
+  "Bélgica (Grupo G)": [
+    [
+      "BEL 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "BEL 2",
+      "Thibaut Courtois",
+      true,
+      0
+    ],
+    [
+      "BEL 3",
+      "Arthur Theate",
+      false,
+      0
+    ],
+    [
+      "BEL 4",
+      "Timothy Castagne",
+      true,
+      0
+    ],
+    [
+      "BEL 5",
+      "Zeno Debast",
+      false,
+      0
+    ],
+    [
+      "BEL 6",
+      "Brandon Mechele",
+      true,
+      0
+    ],
+    [
+      "BEL 7",
+      "Maxim De Cuyper",
+      false,
+      0
+    ],
+    [
+      "BEL 8",
+      "Thomas Meunier",
+      false,
+      0
+    ],
+    [
+      "BEL 9",
+      "Youri Tielemans",
+      true,
+      0
+    ],
+    [
+      "BEL 10",
+      "Amadou Onana",
+      false,
+      0
+    ],
+    [
+      "BEL 11",
+      "Nicolas Raskin",
+      false,
+      0
+    ],
+    [
+      "BEL 12",
+      "Alexis Saelemaekers",
+      false,
+      0
+    ],
+    [
+      "BEL 13",
+      "Foto da Equipe - Bélgica",
+      false,
+      0
+    ],
+    [
+      "BEL 14",
+      "Hans Vanaken",
+      true,
+      0
+    ],
+    [
+      "BEL 15",
+      "Kevin De Bruyne",
+      false,
+      0
+    ],
+    [
+      "BEL 16",
+      "Jérémy Doku",
+      true,
+      0
+    ],
+    [
+      "BEL 17",
+      "Charles De Ketelaere",
+      true,
+      0
+    ],
+    [
+      "BEL 18",
+      "Leandro Trossard",
+      false,
+      0
+    ],
+    [
+      "BEL 19",
+      "Loïs Openda",
+      false,
+      0
+    ],
+    [
+      "BEL 20",
+      "Romelu Lukaku",
+      false,
+      0
+    ]
+  ],
+  "Bósnia-Herzegovina (Grupo B)": [
+    [
+      "BIH 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "BIH 2",
+      "Nikola Vasilj",
+      false,
+      0
+    ],
+    [
+      "BIH 3",
+      "Amer Dedic",
+      true,
+      1
+    ],
+    [
+      "BIH 4",
+      "Sead Kolasinac",
+      false,
+      0
+    ],
+    [
+      "BIH 5",
+      "Tarik Muharemovic",
+      false,
+      0
+    ],
+    [
+      "BIH 6",
+      "Nihad Mujakic",
+      false,
+      0
+    ],
+    [
+      "BIH 7",
+      "Nikola Katic",
+      true,
+      0
+    ],
+    [
+      "BIH 8",
+      "Amir Hadziahmetovic",
+      false,
+      0
+    ],
+    [
+      "BIH 9",
+      "Benjamin Tahirovic",
+      false,
+      0
+    ],
+    [
+      "BIH 10",
+      "Armin Gigovic",
+      false,
+      0
+    ],
+    [
+      "BIH 11",
+      "Ivan Sunjic",
+      true,
+      0
+    ],
+    [
+      "BIH 12",
+      "Ivan Basic",
+      false,
+      0
+    ],
+    [
+      "BIH 13",
+      "Foto da Equipe - Bósnia-Herzegovina",
+      false,
+      0
+    ],
+    [
+      "BIH 14",
+      "Dzenis Burnic",
+      true,
+      0
+    ],
+    [
+      "BIH 15",
+      "Esmir Bajraktarevic",
+      false,
+      0
+    ],
+    [
+      "BIH 16",
+      "Amar Memic",
+      true,
+      0
+    ],
+    [
+      "BIH 17",
+      "Ermedin Demirovic",
+      true,
+      0
+    ],
+    [
+      "BIH 18",
+      "Edin Dzeko",
+      false,
+      0
+    ],
+    [
+      "BIH 19",
+      "Samed Bazdar",
+      false,
+      0
+    ],
+    [
+      "BIH 20",
+      "Haris Tabakovic",
+      false,
+      0
+    ]
+  ],
+  "Brasil (Grupo C)": [
+    [
+      "BRA 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "BRA 2",
+      "Alisson",
+      false,
+      0
+    ],
+    [
+      "BRA 3",
+      "Bento",
+      true,
+      0
+    ],
+    [
+      "BRA 4",
+      "Marquinhos",
+      false,
+      0
+    ],
+    [
+      "BRA 5",
+      "Éder Militão",
+      true,
+      0
+    ],
+    [
+      "BRA 6",
+      "Gabriel Magalhães",
+      false,
+      0
+    ],
+    [
+      "BRA 7",
+      "Danilo",
+      false,
+      0
+    ],
+    [
+      "BRA 8",
+      "Wesley",
+      false,
+      0
+    ],
+    [
+      "BRA 9",
+      "Lucas Paquetá",
+      false,
+      0
+    ],
+    [
+      "BRA 10",
+      "Casemiro",
+      false,
+      0
+    ],
+    [
+      "BRA 11",
+      "Bruno Guimarães",
+      false,
+      0
+    ],
+    [
+      "BRA 12",
+      "Luiz Henrique",
+      false,
+      0
+    ],
+    [
+      "BRA 13",
+      "Brasil (nome do país)",
+      false,
+      0
+    ],
+    [
+      "BRA 14",
+      "Vinicius Júnior",
+      false,
+      0
+    ],
+    [
+      "BRA 15",
+      "Rodrygo",
+      false,
+      0
+    ],
+    [
+      "BRA 16",
+      "João Pedro",
+      false,
+      0
+    ],
+    [
+      "BRA 17",
+      "Matheus Cunha",
+      true,
+      0
+    ],
+    [
+      "BRA 18",
+      "Gabriel Martinelli",
+      false,
+      0
+    ],
+    [
+      "BRA 19",
+      "Raphinha",
+      true,
+      1
+    ],
+    [
+      "BRA 20",
+      "Estévão",
+      false,
+      0
+    ]
+  ],
+  "Cabo Verde (Grupo H)": [
+    [
+      "CPV 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "CPV 2",
+      "Vozinha",
+      false,
+      0
+    ],
+    [
+      "CPV 3",
+      "Logan Costa",
+      true,
+      0
+    ],
+    [
+      "CPV 4",
+      "Pico",
+      true,
+      1
+    ],
+    [
+      "CPV 5",
+      "Diney",
+      false,
+      0
+    ],
+    [
+      "CPV 6",
+      "Steven Moreira",
+      false,
+      0
+    ],
+    [
+      "CPV 7",
+      "Wagner Pina",
+      true,
+      0
+    ],
+    [
+      "CPV 8",
+      "Joao Paulo",
+      true,
+      0
+    ],
+    [
+      "CPV 9",
+      "Yannick Semedo",
+      true,
+      0
+    ],
+    [
+      "CPV 10",
+      "Kevin Pina",
+      false,
+      0
+    ],
+    [
+      "CPV 11",
+      "Patrick Andrade",
+      false,
+      0
+    ],
+    [
+      "CPV 12",
+      "Jamiro Monteiro",
+      true,
+      0
+    ],
+    [
+      "CPV 13",
+      "Foto da Equipe - Cabo Verde",
+      true,
+      3
+    ],
+    [
+      "CPV 14",
+      "Deroy Duarte",
+      true,
+      0
+    ],
+    [
+      "CPV 15",
+      "Garry Rodrigues",
+      false,
+      0
+    ],
+    [
+      "CPV 16",
+      "Jovane Cabral",
+      false,
+      0
+    ],
+    [
+      "CPV 17",
+      "Ryan Mendes",
+      true,
+      1
+    ],
+    [
+      "CPV 18",
+      "Dailon Livramento",
+      true,
+      0
+    ],
+    [
+      "CPV 19",
+      "Willy Semedo",
+      false,
+      0
+    ],
+    [
+      "CPV 20",
+      "Bebe",
+      false,
+      0
+    ]
+  ],
+  "Canadá (Grupo B)": [
+    [
+      "CAN 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "CAN 2",
+      "Dayne St.Clair",
+      true,
+      1
+    ],
+    [
+      "CAN 3",
+      "Alphonso Davies",
+      false,
+      0
+    ],
+    [
+      "CAN 4",
+      "Alistair Johnston",
+      false,
+      0
+    ],
+    [
+      "CAN 5",
+      "Samuel Adekugbe",
+      false,
+      0
+    ],
+    [
+      "CAN 6",
+      "Riche Larvea",
+      true,
+      0
+    ],
+    [
+      "CAN 7",
+      "Derek Cornelius",
+      false,
+      0
+    ],
+    [
+      "CAN 8",
+      "Moïse Bombito",
+      true,
+      1
+    ],
+    [
+      "CAN 9",
+      "Kamal Miller",
+      true,
+      0
+    ],
+    [
+      "CAN 10",
+      "Stephen Eustáquio",
+      false,
+      0
+    ],
+    [
+      "CAN 11",
+      "Ismaël Koné",
+      false,
+      0
+    ],
+    [
+      "CAN 12",
+      "Jonathan Osorio",
+      true,
+      0
+    ],
+    [
+      "CAN 13",
+      "Foto da Equipe - Canadá",
+      true,
+      0
+    ],
+    [
+      "CAN 14",
+      "Jacob Shaffelburg",
+      true,
+      0
+    ],
+    [
+      "CAN 15",
+      "Mathieu Choinière",
+      true,
+      1
+    ],
+    [
+      "CAN 16",
+      "Niko Sigur",
+      true,
+      0
+    ],
+    [
+      "CAN 17",
+      "Tajon Buchanan",
+      true,
+      1
+    ],
+    [
+      "CAN 18",
+      "Liam Millar",
+      true,
+      1
+    ],
+    [
+      "CAN 19",
+      "Cyle Larin",
+      true,
+      1
+    ],
+    [
+      "CAN 20",
+      "Jonathan David",
+      true,
+      1
+    ]
+  ],
+  "Catar (Grupo B)": [
+    [
+      "QAT 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "QAT 2",
+      "Meshaal Barsham",
+      false,
+      0
+    ],
+    [
+      "QAT 3",
+      "Sultan Albrake",
+      false,
+      0
+    ],
+    [
+      "QAT 4",
+      "Lucas Mendes",
+      true,
+      0
+    ],
+    [
+      "QAT 5",
+      "Homam Ahmed",
+      false,
+      0
+    ],
+    [
+      "QAT 6",
+      "Boualem Khoukhi",
+      false,
+      0
+    ],
+    [
+      "QAT 7",
+      "Pedro Miguel",
+      true,
+      0
+    ],
+    [
+      "QAT 8",
+      "Tarek Salman",
+      true,
+      0
+    ],
+    [
+      "QAT 9",
+      "Mohamed Al-Mannai",
+      false,
+      0
+    ],
+    [
+      "QAT 10",
+      "Karim Boudiaf",
+      true,
+      0
+    ],
+    [
+      "QAT 11",
+      "Assim Madibo",
+      true,
+      0
+    ],
+    [
+      "QAT 12",
+      "Ahmed Fatehi",
+      true,
+      1
+    ],
+    [
+      "QAT 13",
+      "Foto da Equipe - Catar",
+      true,
+      0
+    ],
+    [
+      "QAT 14",
+      "Mohammed Waad",
+      true,
+      0
+    ],
+    [
+      "QAT 15",
+      "Abdulaziz Hatem",
+      true,
+      0
+    ],
+    [
+      "QAT 16",
+      "Hassan Al-Haydos",
+      true,
+      0
+    ],
+    [
+      "QAT 17",
+      "Edmilson Junior",
+      false,
+      0
+    ],
+    [
+      "QAT 18",
+      "Akram Hassan Afif",
+      false,
+      0
+    ],
+    [
+      "QAT 19",
+      "Ahmed Al Ganehi",
+      false,
+      0
+    ],
+    [
+      "QAT 20",
+      "Almoez Ali",
+      false,
+      0
+    ]
+  ],
+  "Colômbia (Grupo K)": [
+    [
+      "COL 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "COL 2",
+      "Camilo Vargas",
+      false,
+      0
+    ],
+    [
+      "COL 3",
+      "David Ospina",
+      true,
+      1
+    ],
+    [
+      "COL 4",
+      "Dávinson Sánchez",
+      false,
+      0
+    ],
+    [
+      "COL 5",
+      "Yerry Mina",
+      false,
+      0
+    ],
+    [
+      "COL 6",
+      "Daniel Munoz",
+      true,
+      0
+    ],
+    [
+      "COL 7",
+      "Johan Mojica",
+      false,
+      0
+    ],
+    [
+      "COL 8",
+      "Jhon Lucumí",
+      true,
+      0
+    ],
+    [
+      "COL 9",
+      "Santiago Arias",
+      false,
+      0
+    ],
+    [
+      "COL 10",
+      "Jefferson Lerma",
+      true,
+      0
+    ],
+    [
+      "COL 11",
+      "Kevin Castaño",
+      true,
+      0
+    ],
+    [
+      "COL 12",
+      "Richard Rios",
+      false,
+      0
+    ],
+    [
+      "COL 13",
+      "Foto da Equipe - Colômbia",
+      false,
+      0
+    ],
+    [
+      "COL 14",
+      "James Rodriguez",
+      false,
+      0
+    ],
+    [
+      "COL 15",
+      "Juan Fernando Quintero",
+      false,
+      0
+    ],
+    [
+      "COL 16",
+      "Jorge Carrascal",
+      true,
+      0
+    ],
+    [
+      "COL 17",
+      "Jon Arias",
+      false,
+      0
+    ],
+    [
+      "COL 18",
+      "Jhon Cordova",
+      false,
+      0
+    ],
+    [
+      "COL 19",
+      "Luis Suarez",
+      true,
+      1
+    ],
+    [
+      "COL 20",
+      "Luis Diaz",
+      true,
+      0
+    ]
+  ],
+  "Congo DR (Grupo K)": [
+    [
+      "COD 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "COD 2",
+      "Lionel Mpasi",
+      true,
+      1
+    ],
+    [
+      "COD 3",
+      "Aaron Wan-Bissaka",
+      false,
+      0
+    ],
+    [
+      "COD 4",
+      "Axel Tuanzebe",
+      false,
+      0
+    ],
+    [
+      "COD 5",
+      "Arthur Masuaku",
+      false,
+      0
+    ],
+    [
+      "COD 6",
+      "Chancel Mbemba",
+      false,
+      0
+    ],
+    [
+      "COD 7",
+      "Joris Kayembe",
+      false,
+      0
+    ],
+    [
+      "COD 8",
+      "Charles Pickel",
+      true,
+      1
+    ],
+    [
+      "COD 9",
+      "Ngal'ayel Mukau",
+      false,
+      0
+    ],
+    [
+      "COD 10",
+      "Edo Kayembe",
+      true,
+      0
+    ],
+    [
+      "COD 11",
+      "Samuel Moutoussamy",
+      true,
+      0
+    ],
+    [
+      "COD 12",
+      "Noah Sadiki",
+      false,
+      0
+    ],
+    [
+      "COD 13",
+      "Foto da Equipe - Congo DR",
+      true,
+      0
+    ],
+    [
+      "COD 14",
+      "Théo Bongonda",
+      false,
+      0
+    ],
+    [
+      "COD 15",
+      "Meschak Elia",
+      false,
+      0
+    ],
+    [
+      "COD 16",
+      "Yoane Wissa",
+      false,
+      0
+    ],
+    [
+      "COD 17",
+      "Brian Cipenga",
+      true,
+      1
+    ],
+    [
+      "COD 18",
+      "Fiston Mayele",
+      true,
+      0
+    ],
+    [
+      "COD 19",
+      "Cédric Bakambu",
+      false,
+      0
+    ],
+    [
+      "COD 20",
+      "Nathanaël Mbuku",
+      false,
+      0
+    ]
+  ],
+  "Coreia do Sul (Grupo A)": [
+    [
+      "KOR 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "KOR 2",
+      "Hyeon-woo Jo",
+      true,
+      0
+    ],
+    [
+      "KOR 3",
+      "Seung-Gyu Kim",
+      false,
+      0
+    ],
+    [
+      "KOR 4",
+      "Min-jae Kim",
+      false,
+      0
+    ],
+    [
+      "KOR 5",
+      "Yu-min Cho",
+      true,
+      0
+    ],
+    [
+      "KOR 6",
+      "Young-woo Seol",
+      true,
+      0
+    ],
+    [
+      "KOR 7",
+      "Han-beom Lee",
+      false,
+      0
+    ],
+    [
+      "KOR 8",
+      "Tae-seok Lee",
+      true,
+      1
+    ],
+    [
+      "KOR 9",
+      "Myung-jae Lee",
+      false,
+      0
+    ],
+    [
+      "KOR 10",
+      "Jae-sung Lee",
+      true,
+      1
+    ],
+    [
+      "KOR 11",
+      "In-beom Hwang",
+      true,
+      0
+    ],
+    [
+      "KOR 12",
+      "Kang-in Lee",
+      true,
+      1
+    ],
+    [
+      "KOR 13",
+      "Foto da Equipe - Coreia do Sul",
+      true,
+      0
+    ],
+    [
+      "KOR 14",
+      "Seung-ho Paik",
+      false,
+      0
+    ],
+    [
+      "KOR 15",
+      "Jens Castrop",
+      true,
+      0
+    ],
+    [
+      "KOR 16",
+      "Dongg-yeong Lee",
+      true,
+      0
+    ],
+    [
+      "KOR 17",
+      "Gue-sung Cho",
+      true,
+      0
+    ],
+    [
+      "KOR 18",
+      "Heung-min Son",
+      true,
+      0
+    ],
+    [
+      "KOR 19",
+      "Hee-chan Hwang",
+      true,
+      0
+    ],
+    [
+      "KOR 20",
+      "Hyeon-Gyu Oh",
+      false,
+      0
+    ]
+  ],
+  "Costa do Marfim (Grupo E)": [
+    [
+      "CIV 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "CIV 2",
+      "Yahia Fofana",
+      false,
+      0
+    ],
+    [
+      "CIV 3",
+      "Ghislain Konan",
+      true,
+      0
+    ],
+    [
+      "CIV 4",
+      "Wilfried Singo",
+      true,
+      0
+    ],
+    [
+      "CIV 5",
+      "Odilon Kossounou",
+      true,
+      0
+    ],
+    [
+      "CIV 6",
+      "Evan Ndicka",
+      true,
+      1
+    ],
+    [
+      "CIV 7",
+      "Willy Boly",
+      true,
+      1
+    ],
+    [
+      "CIV 8",
+      "Emmanuel Agbadou",
+      true,
+      1
+    ],
+    [
+      "CIV 9",
+      "Ousmane Diomande",
+      true,
+      0
+    ],
+    [
+      "CIV 10",
+      "Franck Kessie",
+      false,
+      0
+    ],
+    [
+      "CIV 11",
+      "Seko Fofana",
+      true,
+      0
+    ],
+    [
+      "CIV 12",
+      "Ibrahim Sangare",
+      true,
+      1
+    ],
+    [
+      "CIV 13",
+      "Foto da Equipe - Costa do Marfim",
+      true,
+      0
+    ],
+    [
+      "CIV 14",
+      "Jean-Philippe Gbamin",
+      true,
+      0
+    ],
+    [
+      "CIV 15",
+      "Amad Diallo",
+      false,
+      0
+    ],
+    [
+      "CIV 16",
+      "Sébastien Haller",
+      false,
+      0
+    ],
+    [
+      "CIV 17",
+      "Simon Adingra",
+      false,
+      0
+    ],
+    [
+      "CIV 18",
+      "Yan Diomande",
+      true,
+      0
+    ],
+    [
+      "CIV 19",
+      "Evann Guessand",
+      false,
+      0
+    ],
+    [
+      "CIV 20",
+      "Oumar Diakite",
+      true,
+      0
+    ]
+  ],
+  "Croácia (Grupo L)": [
+    [
+      "CRO 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "CRO 2",
+      "Dominik Livaković",
+      false,
+      0
+    ],
+    [
+      "CRO 3",
+      "Duje Caleta-Car",
+      false,
+      0
+    ],
+    [
+      "CRO 4",
+      "Josko Gvardiol",
+      false,
+      0
+    ],
+    [
+      "CRO 5",
+      "Josip Stanišić",
+      false,
+      0
+    ],
+    [
+      "CRO 6",
+      "Luka Vušković",
+      false,
+      0
+    ],
+    [
+      "CRO 7",
+      "Josip Sutalo",
+      false,
+      0
+    ],
+    [
+      "CRO 8",
+      "Kristijan Jakic",
+      true,
+      1
+    ],
+    [
+      "CRO 9",
+      "Luka Modrić",
+      false,
+      0
+    ],
+    [
+      "CRO 10",
+      "Mateo Kovacic",
+      false,
+      0
+    ],
+    [
+      "CRO 11",
+      "Martin Baturina",
+      true,
+      0
+    ],
+    [
+      "CRO 12",
+      "Lovro Majer",
+      false,
+      0
+    ],
+    [
+      "CRO 13",
+      "Foto da Equipe - Croácia",
+      false,
+      0
+    ],
+    [
+      "CRO 14",
+      "Mario Pasalic",
+      false,
+      0
+    ],
+    [
+      "CRO 15",
+      "Petar Sucic",
+      false,
+      0
+    ],
+    [
+      "CRO 16",
+      "Ivan Perišić",
+      true,
+      0
+    ],
+    [
+      "CRO 17",
+      "Marco Pasalic",
+      false,
+      0
+    ],
+    [
+      "CRO 18",
+      "Ante Budimir",
+      false,
+      0
+    ],
+    [
+      "CRO 19",
+      "Andrej Kramarić",
+      false,
+      0
+    ],
+    [
+      "CRO 20",
+      "Franjo Ivanovic",
+      true,
+      0
+    ]
+  ],
+  "Curaçao (Grupo E)": [
+    [
+      "CUW 1",
+      "Escudo / Logo",
+      true,
+      1
+    ],
+    [
+      "CUW 2",
+      "Eloy Room",
+      false,
+      0
+    ],
+    [
+      "CUW 3",
+      "Armando Obispo",
+      false,
+      0
+    ],
+    [
+      "CUW 4",
+      "Sherel Floranus",
+      false,
+      0
+    ],
+    [
+      "CUW 5",
+      "Jurien Gaari",
+      false,
+      0
+    ],
+    [
+      "CUW 6",
+      "Joshua Brenet",
+      true,
+      0
+    ],
+    [
+      "CUW 7",
+      "Roshon Van Eijma",
+      false,
+      0
+    ],
+    [
+      "CUW 8",
+      "Shurandy Sambo",
+      true,
+      0
+    ],
+    [
+      "CUW 9",
+      "Livano Comenencia",
+      true,
+      0
+    ],
+    [
+      "CUW 10",
+      "Godfried Roemeratoe",
+      false,
+      0
+    ],
+    [
+      "CUW 11",
+      "Juninho Bacuna",
+      true,
+      0
+    ],
+    [
+      "CUW 12",
+      "Leandro Bacuna",
+      true,
+      1
+    ],
+    [
+      "CUW 13",
+      "Foto da Equipe - Curaçao",
+      true,
+      0
+    ],
+    [
+      "CUW 14",
+      "Tahith Chong",
+      false,
+      0
+    ],
+    [
+      "CUW 15",
+      "Kenji Gorre",
+      false,
+      0
+    ],
+    [
+      "CUW 16",
+      "Jearl Margaritha",
+      false,
+      0
+    ],
+    [
+      "CUW 17",
+      "Jurgen Locadia",
+      false,
+      0
+    ],
+    [
+      "CUW 18",
+      "Jeremy Antonisse",
+      false,
+      0
+    ],
+    [
+      "CUW 19",
+      "Gervane Kastaneer",
+      true,
+      0
+    ],
+    [
+      "CUW 20",
+      "Sontje Hansen",
+      true,
+      0
+    ]
+  ],
+  "Egito (Grupo G)": [
+    [
+      "EGY 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "EGY 2",
+      "Mohamed El Shenawy",
+      false,
+      0
+    ],
+    [
+      "EGY 3",
+      "Mohamed Hany",
+      true,
+      2
+    ],
+    [
+      "EGY 4",
+      "Mohamed Hamdy",
+      true,
+      0
+    ],
+    [
+      "EGY 5",
+      "Yasser Ibrahim",
+      true,
+      0
+    ],
+    [
+      "EGY 6",
+      "Khaled Sobhi",
+      true,
+      0
+    ],
+    [
+      "EGY 7",
+      "Ramy Rabia",
+      true,
+      1
+    ],
+    [
+      "EGY 8",
+      "Hossam Abdelmaguid",
+      true,
+      0
+    ],
+    [
+      "EGY 9",
+      "Ahmed Fatouh",
+      false,
+      0
+    ],
+    [
+      "EGY 10",
+      "Marwan Attia",
+      false,
+      0
+    ],
+    [
+      "EGY 11",
+      "Zizo",
+      false,
+      0
+    ],
+    [
+      "EGY 12",
+      "Hamdy Fathy",
+      true,
+      0
+    ],
+    [
+      "EGY 13",
+      "Foto da Equipe - Egito",
+      false,
+      0
+    ],
+    [
+      "EGY 14",
+      "Mohamed Lasheen",
+      true,
+      0
+    ],
+    [
+      "EGY 15",
+      "Emam Ashour",
+      true,
+      0
+    ],
+    [
+      "EGY 16",
+      "Osama Faisal",
+      false,
+      0
+    ],
+    [
+      "EGY 17",
+      "Mohamed Salah",
+      true,
+      1
+    ],
+    [
+      "EGY 18",
+      "Mostafa Mohamed",
+      true,
+      0
+    ],
+    [
+      "EGY 19",
+      "Trezeguet",
+      true,
+      0
+    ],
+    [
+      "EGY 20",
+      "Omar Marmoush",
+      true,
+      0
+    ]
+  ],
+  "Equador (Grupo E)": [
+    [
+      "ECU 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "ECU 2",
+      "Hernán Galíndez",
+      true,
+      0
+    ],
+    [
+      "ECU 3",
+      "Gonzalo Valle",
+      true,
+      0
+    ],
+    [
+      "ECU 4",
+      "Piero Hincapié",
+      false,
+      0
+    ],
+    [
+      "ECU 5",
+      "Pervis Estupiñán",
+      false,
+      0
+    ],
+    [
+      "ECU 6",
+      "Willian Pacho",
+      false,
+      0
+    ],
+    [
+      "ECU 7",
+      "Ángelo Preciado",
+      false,
+      0
+    ],
+    [
+      "ECU 8",
+      "Joel Ordóñez",
+      false,
+      0
+    ],
+    [
+      "ECU 9",
+      "Moises Caicedo",
+      true,
+      0
+    ],
+    [
+      "ECU 10",
+      "Alan Franco",
+      true,
+      0
+    ],
+    [
+      "ECU 11",
+      "Kendry Paez",
+      false,
+      0
+    ],
+    [
+      "ECU 12",
+      "Pedro Vite",
+      false,
+      0
+    ],
+    [
+      "ECU 13",
+      "Foto da Equipe - Equador",
+      false,
+      0
+    ],
+    [
+      "ECU 14",
+      "John Veboah",
+      true,
+      0
+    ],
+    [
+      "ECU 15",
+      "Leonardo Campana",
+      true,
+      0
+    ],
+    [
+      "ECU 16",
+      "Gonzalo Plata",
+      true,
+      0
+    ],
+    [
+      "ECU 17",
+      "Nilson Angulo",
+      false,
+      0
+    ],
+    [
+      "ECU 18",
+      "Alan Minda",
+      true,
+      0
+    ],
+    [
+      "ECU 19",
+      "Kevin Rodriguez",
+      true,
+      1
+    ],
+    [
+      "ECU 20",
+      "Enner Valencia",
+      false,
+      0
+    ]
+  ],
+  "Escócia (Grupo C)": [
+    [
+      "SCO 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "SCO 2",
+      "Angus Gunn",
+      true,
+      2
+    ],
+    [
+      "SCO 3",
+      "Jack Hendry",
+      false,
+      0
+    ],
+    [
+      "SCO 4",
+      "Kieran Tierney",
+      true,
+      0
+    ],
+    [
+      "SCO 5",
+      "Aaron Hickey",
+      true,
+      0
+    ],
+    [
+      "SCO 6",
+      "Andrew Robertson",
+      true,
+      0
+    ],
+    [
+      "SCO 7",
+      "Scott McKenna",
+      true,
+      0
+    ],
+    [
+      "SCO 8",
+      "John Souttar",
+      true,
+      0
+    ],
+    [
+      "SCO 9",
+      "Anthony Ralston",
+      true,
+      0
+    ],
+    [
+      "SCO 10",
+      "Grant Hanley",
+      false,
+      0
+    ],
+    [
+      "SCO 11",
+      "Scott McTominay",
+      true,
+      0
+    ],
+    [
+      "SCO 12",
+      "Billy Gilmour",
+      true,
+      0
+    ],
+    [
+      "SCO 13",
+      "Foto da Equipe - Escócia",
+      false,
+      0
+    ],
+    [
+      "SCO 14",
+      "Lewis Ferguson",
+      false,
+      0
+    ],
+    [
+      "SCO 15",
+      "Ryan Christie",
+      true,
+      0
+    ],
+    [
+      "SCO 16",
+      "Kenny McLean",
+      false,
+      0
+    ],
+    [
+      "SCO 17",
+      "John McGinn",
+      true,
+      1
+    ],
+    [
+      "SCO 18",
+      "Lyndon Dykes",
+      true,
+      0
+    ],
+    [
+      "SCO 19",
+      "Che Adams",
+      false,
+      0
+    ],
+    [
+      "SCO 20",
+      "Ben Gannon-Doak",
+      true,
+      1
+    ]
+  ],
+  "Espanha (Grupo H)": [
+    [
+      "ESP 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "ESP 2",
+      "Unai Simon",
+      true,
+      0
+    ],
+    [
+      "ESP 3",
+      "Robin Le Normand",
+      true,
+      0
+    ],
+    [
+      "ESP 4",
+      "Aymeric Laporte",
+      false,
+      0
+    ],
+    [
+      "ESP 5",
+      "Dean Huijsen",
+      true,
+      0
+    ],
+    [
+      "ESP 6",
+      "Pedro Porro",
+      true,
+      0
+    ],
+    [
+      "ESP 7",
+      "Dani Carvajal",
+      false,
+      0
+    ],
+    [
+      "ESP 8",
+      "Marc Cucurella",
+      false,
+      0
+    ],
+    [
+      "ESP 9",
+      "Martín Zubimendi",
+      false,
+      0
+    ],
+    [
+      "ESP 10",
+      "Rodri",
+      true,
+      0
+    ],
+    [
+      "ESP 11",
+      "Pedri",
+      true,
+      0
+    ],
+    [
+      "ESP 12",
+      "Fabian Ruiz",
+      false,
+      0
+    ],
+    [
+      "ESP 13",
+      "Foto da Equipe - Espanha",
+      false,
+      0
+    ],
+    [
+      "ESP 14",
+      "Mikel Merino",
+      true,
+      0
+    ],
+    [
+      "ESP 15",
+      "Lamine Yamal",
+      false,
+      0
+    ],
+    [
+      "ESP 16",
+      "Dani Olmo",
+      false,
+      0
+    ],
+    [
+      "ESP 17",
+      "Nico Williams",
+      true,
+      0
+    ],
+    [
+      "ESP 18",
+      "Ferran Torres",
+      false,
+      0
+    ],
+    [
+      "ESP 19",
+      "Álvaro Morata",
+      false,
+      0
+    ],
+    [
+      "ESP 20",
+      "Mikel Oyarzabal",
+      true,
+      0
+    ]
+  ],
+  "França (Grupo I)": [
+    [
+      "FRA 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "FRA 2",
+      "Mike Maignan",
+      true,
+      0
+    ],
+    [
+      "FRA 3",
+      "Theo Hernandez",
+      true,
+      0
+    ],
+    [
+      "FRA 4",
+      "William Saliba",
+      true,
+      0
+    ],
+    [
+      "FRA 5",
+      "Jules Kounde",
+      true,
+      0
+    ],
+    [
+      "FRA 6",
+      "Ibrahima Konate",
+      true,
+      0
+    ],
+    [
+      "FRA 7",
+      "Dayot Upamecano",
+      true,
+      0
+    ],
+    [
+      "FRA 8",
+      "Lucas Digne",
+      true,
+      0
+    ],
+    [
+      "FRA 9",
+      "Aurélien Tchouaméni",
+      true,
+      0
+    ],
+    [
+      "FRA 10",
+      "Eduardo Camavinga",
+      true,
+      0
+    ],
+    [
+      "FRA 11",
+      "Manu Kone",
+      false,
+      0
+    ],
+    [
+      "FRA 12",
+      "Adrien Rabiot",
+      true,
+      0
+    ],
+    [
+      "FRA 13",
+      "Foto da Equipe - França",
+      true,
+      0
+    ],
+    [
+      "FRA 14",
+      "Michael Olise",
+      false,
+      0
+    ],
+    [
+      "FRA 15",
+      "Ousmane Dembele",
+      true,
+      0
+    ],
+    [
+      "FRA 16",
+      "Bradley Barcola",
+      false,
+      0
+    ],
+    [
+      "FRA 17",
+      "Désiré Doué",
+      false,
+      0
+    ],
+    [
+      "FRA 18",
+      "Kingsley Coman",
+      true,
+      1
+    ],
+    [
+      "FRA 19",
+      "Hugo Ekitike",
+      true,
+      0
+    ],
+    [
+      "FRA 20",
+      "Kylian Mbappe",
+      false,
+      0
+    ]
+  ],
+  "Ghana (Grupo L)": [
+    [
+      "GHA 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "GHA 2",
+      "Lawrence Ati Zigi",
+      true,
+      0
+    ],
+    [
+      "GHA 3",
+      "Tariq Lamptey",
+      false,
+      0
+    ],
+    [
+      "GHA 4",
+      "Mohammed Salisu",
+      true,
+      0
+    ],
+    [
+      "GHA 5",
+      "Alidu Seidu",
+      false,
+      0
+    ],
+    [
+      "GHA 6",
+      "Alexander Djiku",
+      true,
+      0
+    ],
+    [
+      "GHA 7",
+      "Gideon Mensah",
+      true,
+      0
+    ],
+    [
+      "GHA 8",
+      "Caleb Yirenkyi",
+      false,
+      0
+    ],
+    [
+      "GHA 9",
+      "Abdul Issahaku Fatawu",
+      false,
+      0
+    ],
+    [
+      "GHA 10",
+      "Thomas Partey",
+      true,
+      0
+    ],
+    [
+      "GHA 11",
+      "Salis Abdul Samed",
+      true,
+      0
+    ],
+    [
+      "GHA 12",
+      "Kamaldeen Sulemana",
+      false,
+      0
+    ],
+    [
+      "GHA 13",
+      "Foto da Equipe - Ghana",
+      true,
+      0
+    ],
+    [
+      "GHA 14",
+      "Mohammed Kudus",
+      false,
+      0
+    ],
+    [
+      "GHA 15",
+      "Iñaki Williams",
+      true,
+      0
+    ],
+    [
+      "GHA 16",
+      "Jordan Ayew",
+      true,
+      0
+    ],
+    [
+      "GHA 17",
+      "André Ayew",
+      false,
+      0
+    ],
+    [
+      "GHA 18",
+      "Joseph Paintsil",
+      true,
+      0
+    ],
+    [
+      "GHA 19",
+      "Osman Bukari",
+      true,
+      0
+    ],
+    [
+      "GHA 20",
+      "Antoine Semenyo",
+      true,
+      0
+    ]
+  ],
+  "Haiti (Grupo C)": [
+    [
+      "HAI 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "HAI 2",
+      "Johny Placide",
+      true,
+      0
+    ],
+    [
+      "HAI 3",
+      "Carlens Arcus",
+      false,
+      0
+    ],
+    [
+      "HAI 4",
+      "Martin Expérience",
+      true,
+      0
+    ],
+    [
+      "HAI 5",
+      "Jean-Kevin Duverne",
+      false,
+      0
+    ],
+    [
+      "HAI 6",
+      "Ricardo Adé",
+      true,
+      0
+    ],
+    [
+      "HAI 7",
+      "Duke Lacroix",
+      false,
+      0
+    ],
+    [
+      "HAI 8",
+      "Garven Metusala",
+      true,
+      0
+    ],
+    [
+      "HAI 9",
+      "Hannes Delcroix",
+      true,
+      0
+    ],
+    [
+      "HAI 10",
+      "Leverton Pierre",
+      true,
+      1
+    ],
+    [
+      "HAI 11",
+      "Danley Jean Jacques",
+      false,
+      0
+    ],
+    [
+      "HAI 12",
+      "Jean-Ricner Bellegarde",
+      true,
+      0
+    ],
+    [
+      "HAI 13",
+      "Foto da Equipe - Haiti",
+      true,
+      0
+    ],
+    [
+      "HAI 14",
+      "Christopher Attys",
+      false,
+      0
+    ],
+    [
+      "HAI 15",
+      "Derrick Etienne Jr",
+      true,
+      0
+    ],
+    [
+      "HAI 16",
+      "Josue Casimir",
+      false,
+      0
+    ],
+    [
+      "HAI 17",
+      "Ruben Providence",
+      true,
+      0
+    ],
+    [
+      "HAI 18",
+      "Duckens Nazon",
+      true,
+      0
+    ],
+    [
+      "HAI 19",
+      "Louicius Deedson",
+      false,
+      0
+    ],
+    [
+      "HAI 20",
+      "Frantzdy Pierrot",
+      true,
+      0
+    ]
+  ],
+  "Holanda (Grupo F)": [
+    [
+      "NED 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "NED 2",
+      "Bart Verbruggen",
+      false,
+      0
+    ],
+    [
+      "NED 3",
+      "Virgil van Dijk",
+      true,
+      0
+    ],
+    [
+      "NED 4",
+      "Micky van de Ven",
+      true,
+      0
+    ],
+    [
+      "NED 5",
+      "Jurrien Timber",
+      true,
+      0
+    ],
+    [
+      "NED 6",
+      "Denzel Dumfries",
+      false,
+      0
+    ],
+    [
+      "NED 7",
+      "Nathan Aké",
+      false,
+      0
+    ],
+    [
+      "NED 8",
+      "Jeremie Frimpong",
+      true,
+      1
+    ],
+    [
+      "NED 9",
+      "Jan Paul van Hecke",
+      true,
+      0
+    ],
+    [
+      "NED 10",
+      "Tijjani Reijnders",
+      false,
+      0
+    ],
+    [
+      "NED 11",
+      "Ryan Gravenberch",
+      true,
+      0
+    ],
+    [
+      "NED 12",
+      "Teun Koopmeiners",
+      true,
+      1
+    ],
+    [
+      "NED 13",
+      "Foto da Equipe - Holanda",
+      false,
+      0
+    ],
+    [
+      "NED 14",
+      "Frenkie de Jong",
+      false,
+      0
+    ],
+    [
+      "NED 15",
+      "Xavi Simons",
+      false,
+      0
+    ],
+    [
+      "NED 16",
+      "Justin Kluivert",
+      false,
+      0
+    ],
+    [
+      "NED 17",
+      "Memphis Depay",
+      true,
+      0
+    ],
+    [
+      "NED 18",
+      "Donyell Malen",
+      true,
+      0
+    ],
+    [
+      "NED 19",
+      "Wout Weghorst",
+      false,
+      0
+    ],
+    [
+      "NED 20",
+      "Cody Gakpo",
+      false,
+      0
+    ]
+  ],
+  "Inglaterra (Grupo L)": [
+    [
+      "ENG 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "ENG 2",
+      "Jordan Pickford",
+      true,
+      0
+    ],
+    [
+      "ENG 3",
+      "John Stones",
+      true,
+      1
+    ],
+    [
+      "ENG 4",
+      "Marc Guéhi",
+      true,
+      0
+    ],
+    [
+      "ENG 5",
+      "Ezri Konsa",
+      true,
+      0
+    ],
+    [
+      "ENG 6",
+      "Trent Alexander-Arnold",
+      true,
+      0
+    ],
+    [
+      "ENG 7",
+      "Reece James",
+      false,
+      0
+    ],
+    [
+      "ENG 8",
+      "Dan Burn",
+      false,
+      0
+    ],
+    [
+      "ENG 9",
+      "Jordan Henderson",
+      false,
+      0
+    ],
+    [
+      "ENG 10",
+      "Declan Rice",
+      true,
+      0
+    ],
+    [
+      "ENG 11",
+      "Jude Bellingham",
+      true,
+      0
+    ],
+    [
+      "ENG 12",
+      "Cole Palmer",
+      false,
+      0
+    ],
+    [
+      "ENG 13",
+      "Foto da Equipe - Inglaterra",
+      true,
+      0
+    ],
+    [
+      "ENG 14",
+      "Morgan Rogers",
+      false,
+      0
+    ],
+    [
+      "ENG 15",
+      "Anthony Gordon",
+      true,
+      0
+    ],
+    [
+      "ENG 16",
+      "Phil Foden",
+      true,
+      0
+    ],
+    [
+      "ENG 17",
+      "Bukayo Saka",
+      false,
+      0
+    ],
+    [
+      "ENG 18",
+      "Harry Kane",
+      false,
+      0
+    ],
+    [
+      "ENG 19",
+      "Marcus Rashford",
+      false,
+      0
+    ],
+    [
+      "ENG 20",
+      "Ollie Watkins",
+      true,
+      0
+    ]
+  ],
+  "Irã (Grupo G)": [
+    [
+      "IRN 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "IRN 2",
+      "Alireza Beiranvand",
+      false,
+      0
+    ],
+    [
+      "IRN 3",
+      "Morteza Pouraliganji",
+      true,
+      0
+    ],
+    [
+      "IRN 4",
+      "Ehsan Hajsafi",
+      true,
+      1
+    ],
+    [
+      "IRN 5",
+      "Milad Mohammadi",
+      false,
+      0
+    ],
+    [
+      "IRN 6",
+      "Shojae Khalilzadeh",
+      true,
+      0
+    ],
+    [
+      "IRN 7",
+      "Ramin Rezaeian",
+      true,
+      0
+    ],
+    [
+      "IRN 8",
+      "Hossein Kanaani",
+      true,
+      0
+    ],
+    [
+      "IRN 9",
+      "Sadegh Moharrami",
+      false,
+      0
+    ],
+    [
+      "IRN 10",
+      "Saleh Hardani",
+      true,
+      0
+    ],
+    [
+      "IRN 11",
+      "Saeed Ezatolahi",
+      true,
+      0
+    ],
+    [
+      "IRN 12",
+      "Saman Ghoddos",
+      false,
+      0
+    ],
+    [
+      "IRN 13",
+      "Foto da Equipe - Irã",
+      false,
+      0
+    ],
+    [
+      "IRN 14",
+      "Omid Noorafkan",
+      false,
+      0
+    ],
+    [
+      "IRN 15",
+      "Roozbeh Cheshmi",
+      false,
+      0
+    ],
+    [
+      "IRN 16",
+      "Mohammad Mohebi",
+      true,
+      0
+    ],
+    [
+      "IRN 17",
+      "Sardar Azmoun",
+      false,
+      0
+    ],
+    [
+      "IRN 18",
+      "Mehdi Taremi",
+      false,
+      0
+    ],
+    [
+      "IRN 19",
+      "Alireza Jahanbakhsh",
+      true,
+      0
+    ],
+    [
+      "IRN 20",
+      "Ali Gholizadeh",
+      false,
+      0
+    ]
+  ],
+  "Iraque (Grupo I)": [
+    [
+      "IRQ 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "IRQ 2",
+      "Jalal Hassan",
+      false,
+      0
+    ],
+    [
+      "IRQ 3",
+      "Rebin Sulaka",
+      false,
+      0
+    ],
+    [
+      "IRQ 4",
+      "Hussein Ali",
+      false,
+      0
+    ],
+    [
+      "IRQ 5",
+      "Akam Hashem",
+      false,
+      0
+    ],
+    [
+      "IRQ 6",
+      "Merchas Doski",
+      true,
+      0
+    ],
+    [
+      "IRQ 7",
+      "Zaid Tahseen",
+      false,
+      0
+    ],
+    [
+      "IRQ 8",
+      "Manaf Younis",
+      false,
+      0
+    ],
+    [
+      "IRQ 9",
+      "Zidane Iqbal",
+      false,
+      0
+    ],
+    [
+      "IRQ 10",
+      "Amir Al-Ammari",
+      true,
+      0
+    ],
+    [
+      "IRQ 11",
+      "Ibrahim Bavesh",
+      false,
+      0
+    ],
+    [
+      "IRQ 12",
+      "Ali Jasim",
+      false,
+      0
+    ],
+    [
+      "IRQ 13",
+      "Foto da Equipe - Iraque",
+      true,
+      0
+    ],
+    [
+      "IRQ 14",
+      "Youssef Amyn",
+      false,
+      0
+    ],
+    [
+      "IRQ 15",
+      "Aimar Sher",
+      true,
+      1
+    ],
+    [
+      "IRQ 16",
+      "Marko Farji",
+      false,
+      0
+    ],
+    [
+      "IRQ 17",
+      "Osama Rashid",
+      false,
+      0
+    ],
+    [
+      "IRQ 18",
+      "Ali Al-Hamadi",
+      false,
+      0
+    ],
+    [
+      "IRQ 19",
+      "Aymen Hussein",
+      false,
+      0
+    ],
+    [
+      "IRQ 20",
+      "Mohanad Ali",
+      false,
+      0
+    ]
+  ],
+  "Japão (Grupo F)": [
+    [
+      "JPN 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "JPN 2",
+      "Zion Suzuki",
+      false,
+      0
+    ],
+    [
+      "JPN 3",
+      "Henry Heroki Mochizuki",
+      true,
+      0
+    ],
+    [
+      "JPN 4",
+      "Ayumu Seko",
+      false,
+      0
+    ],
+    [
+      "JPN 5",
+      "Junnosuke Suzuki",
+      false,
+      0
+    ],
+    [
+      "JPN 6",
+      "Shogo Taniguchi",
+      false,
+      0
+    ],
+    [
+      "JPN 7",
+      "Tsuyoshi Watanabe",
+      true,
+      0
+    ],
+    [
+      "JPN 8",
+      "Kaishu Sano",
+      true,
+      0
+    ],
+    [
+      "JPN 9",
+      "Yuki Soma",
+      true,
+      0
+    ],
+    [
+      "JPN 10",
+      "Ao Tanaka",
+      false,
+      0
+    ],
+    [
+      "JPN 11",
+      "Daichi Kamada",
+      false,
+      0
+    ],
+    [
+      "JPN 12",
+      "Takefusa Kubo",
+      false,
+      0
+    ],
+    [
+      "JPN 13",
+      "Foto da Equipe - Japão",
+      false,
+      0
+    ],
+    [
+      "JPN 14",
+      "Ritsu Doan",
+      true,
+      0
+    ],
+    [
+      "JPN 15",
+      "Keito Nakamura",
+      false,
+      0
+    ],
+    [
+      "JPN 16",
+      "Takumi Minamino",
+      true,
+      0
+    ],
+    [
+      "JPN 17",
+      "Shuto Machino",
+      true,
+      0
+    ],
+    [
+      "JPN 18",
+      "Junya Ito",
+      false,
+      0
+    ],
+    [
+      "JPN 19",
+      "Koki Ogawa",
+      true,
+      0
+    ],
+    [
+      "JPN 20",
+      "Ayase Ueda",
+      true,
+      0
+    ]
+  ],
+  "Jordânia (Grupo J)": [
+    [
+      "JOR 1",
+      "Escudo / Logo",
+      true,
+      1
+    ],
+    [
+      "JOR 2",
+      "Yazeed Abulaila",
+      true,
+      0
+    ],
+    [
+      "JOR 3",
+      "Ihsan Haddad",
+      false,
+      0
+    ],
+    [
+      "JOR 4",
+      "Mohammad Abu Hashish",
+      true,
+      0
+    ],
+    [
+      "JOR 5",
+      "Yazan Al-Arab",
+      false,
+      0
+    ],
+    [
+      "JOR 6",
+      "Abdallah Nasib",
+      false,
+      0
+    ],
+    [
+      "JOR 7",
+      "Saleem Obaid",
+      false,
+      0
+    ],
+    [
+      "JOR 8",
+      "Mohammad Abualnadi",
+      true,
+      0
+    ],
+    [
+      "JOR 9",
+      "Ibrahim Saadeh",
+      false,
+      0
+    ],
+    [
+      "JOR 10",
+      "Nizar Al-Rashdan",
+      false,
+      0
+    ],
+    [
+      "JOR 11",
+      "Noor Al-Rawabdeh",
+      false,
+      0
+    ],
+    [
+      "JOR 12",
+      "Mohannad Abu Taha",
+      true,
+      1
+    ],
+    [
+      "JOR 13",
+      "Foto da Equipe - Jordânia",
+      false,
+      0
+    ],
+    [
+      "JOR 14",
+      "Amer Jamous",
+      false,
+      0
+    ],
+    [
+      "JOR 15",
+      "Musa Al-Taamari",
+      false,
+      0
+    ],
+    [
+      "JOR 16",
+      "Yazan Al-Naimat",
+      false,
+      0
+    ],
+    [
+      "JOR 17",
+      "Mahmoud Al-Mardi",
+      true,
+      1
+    ],
+    [
+      "JOR 18",
+      "Ali Olwan",
+      false,
+      0
+    ],
+    [
+      "JOR 19",
+      "Mohammad Abu Zrayq",
+      false,
+      0
+    ],
+    [
+      "JOR 20",
+      "Ibrahim Sabra",
+      false,
+      0
+    ]
+  ],
+  "Marrocos (Grupo C)": [
+    [
+      "MAR 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "MAR 2",
+      "Yassine Bounou",
+      true,
+      0
+    ],
+    [
+      "MAR 3",
+      "Munir El Kajoui",
+      true,
+      0
+    ],
+    [
+      "MAR 4",
+      "Achraf Hakimi",
+      false,
+      0
+    ],
+    [
+      "MAR 5",
+      "Noussair Mazraoui",
+      false,
+      0
+    ],
+    [
+      "MAR 6",
+      "Nayef Aguerd",
+      true,
+      1
+    ],
+    [
+      "MAR 7",
+      "Roman Saiss",
+      true,
+      0
+    ],
+    [
+      "MAR 8",
+      "Jawad El Yamio",
+      false,
+      0
+    ],
+    [
+      "MAR 9",
+      "Adam Masina",
+      false,
+      0
+    ],
+    [
+      "MAR 10",
+      "Sofyan Amrabat",
+      true,
+      2
+    ],
+    [
+      "MAR 11",
+      "Azzedine Ounahi",
+      true,
+      0
+    ],
+    [
+      "MAR 12",
+      "Eliesse Ben Seghir",
+      false,
+      0
+    ],
+    [
+      "MAR 13",
+      "Foto da Equipe - Marrocos",
+      false,
+      0
+    ],
+    [
+      "MAR 14",
+      "Bilal El Khannouss",
+      true,
+      0
+    ],
+    [
+      "MAR 15",
+      "Ismael Saibari",
+      true,
+      1
+    ],
+    [
+      "MAR 16",
+      "Youssef En-Nesyri",
+      true,
+      0
+    ],
+    [
+      "MAR 17",
+      "Abde Ezzalzouli",
+      false,
+      0
+    ],
+    [
+      "MAR 18",
+      "Soufiane Rahimi",
+      false,
+      0
+    ],
+    [
+      "MAR 19",
+      "Brahim Diaz",
+      true,
+      0
+    ],
+    [
+      "MAR 20",
+      "Ayoub El Kaabi",
+      false,
+      0
+    ]
+  ],
+  "México (Grupo A)": [
+    [
+      "MEX 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "MEX 2",
+      "Luis Malagón",
+      true,
+      0
+    ],
+    [
+      "MEX 3",
+      "Johan Vasquez",
+      false,
+      0
+    ],
+    [
+      "MEX 4",
+      "Jorge Sánchez",
+      true,
+      0
+    ],
+    [
+      "MEX 5",
+      "Cesar Montes",
+      false,
+      0
+    ],
+    [
+      "MEX 6",
+      "Jesus Gallardo",
+      false,
+      0
+    ],
+    [
+      "MEX 7",
+      "Israel Reyes",
+      false,
+      0
+    ],
+    [
+      "MEX 8",
+      "Diego Lainez",
+      true,
+      0
+    ],
+    [
+      "MEX 9",
+      "Carlos Rodriguez",
+      true,
+      0
+    ],
+    [
+      "MEX 10",
+      "Edson Alvarez",
+      false,
+      0
+    ],
+    [
+      "MEX 11",
+      "Orbelin Pineda",
+      false,
+      0
+    ],
+    [
+      "MEX 12",
+      "Marcel Ruiz",
+      true,
+      1
+    ],
+    [
+      "MEX 13",
+      "Foto da Equipe - México",
+      true,
+      1
+    ],
+    [
+      "MEX 14",
+      "Érick Sánchez",
+      true,
+      0
+    ],
+    [
+      "MEX 15",
+      "Hirving Lozano",
+      false,
+      0
+    ],
+    [
+      "MEX 16",
+      "Santiago Giménez",
+      false,
+      0
+    ],
+    [
+      "MEX 17",
+      "Raúl Jiménez",
+      true,
+      0
+    ],
+    [
+      "MEX 18",
+      "Alexis Vega",
+      false,
+      0
+    ],
+    [
+      "MEX 19",
+      "Roberto Alvarado",
+      true,
+      0
+    ],
+    [
+      "MEX 20",
+      "Cesar Huerta",
+      false,
+      0
+    ]
+  ],
+  "Noruega (Grupo I)": [
+    [
+      "NOR 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "NOR 2",
+      "Orjan Nyland",
+      false,
+      0
+    ],
+    [
+      "NOR 3",
+      "Julian Ryerson",
+      true,
+      0
+    ],
+    [
+      "NOR 4",
+      "Leo Ostigård",
+      true,
+      0
+    ],
+    [
+      "NOR 5",
+      "Kristoffer Vassbakk Ajer",
+      false,
+      0
+    ],
+    [
+      "NOR 6",
+      "Marcus Holmgren Pedersen",
+      false,
+      0
+    ],
+    [
+      "NOR 7",
+      "David Møller Wolfe",
+      true,
+      0
+    ],
+    [
+      "NOR 8",
+      "Torbjørn Heggem",
+      true,
+      0
+    ],
+    [
+      "NOR 9",
+      "Morten Thorsby",
+      false,
+      0
+    ],
+    [
+      "NOR 10",
+      "Martin Ødegaard",
+      false,
+      0
+    ],
+    [
+      "NOR 11",
+      "Sander Berge",
+      true,
+      1
+    ],
+    [
+      "NOR 12",
+      "Andreas Schjelderup",
+      true,
+      0
+    ],
+    [
+      "NOR 13",
+      "Foto da Equipe - Noruega",
+      false,
+      0
+    ],
+    [
+      "NOR 14",
+      "Patrick Berg",
+      false,
+      0
+    ],
+    [
+      "NOR 15",
+      "Erling Haaland",
+      true,
+      0
+    ],
+    [
+      "NOR 16",
+      "Alexander Sørloth",
+      true,
+      0
+    ],
+    [
+      "NOR 17",
+      "Aron Dønnum",
+      true,
+      0
+    ],
+    [
+      "NOR 18",
+      "Jorgen Strand Larsen",
+      false,
+      0
+    ],
+    [
+      "NOR 19",
+      "Antonio Nusa",
+      true,
+      0
+    ],
+    [
+      "NOR 20",
+      "Oscar Bobb",
+      false,
+      0
+    ]
+  ],
+  "Nova Zelândia (Grupo G)": [
+    [
+      "NZL 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "NZL 2",
+      "Max Crocombe Payne",
+      false,
+      0
+    ],
+    [
+      "NZL 3",
+      "Alex Paulsen",
+      false,
+      0
+    ],
+    [
+      "NZL 4",
+      "Michael Boxall",
+      false,
+      0
+    ],
+    [
+      "NZL 5",
+      "Liberato Cacace",
+      true,
+      0
+    ],
+    [
+      "NZL 6",
+      "Tim Payne",
+      false,
+      0
+    ],
+    [
+      "NZL 7",
+      "Tyler Bindon",
+      false,
+      0
+    ],
+    [
+      "NZL 8",
+      "Francis de Vries",
+      false,
+      0
+    ],
+    [
+      "NZL 9",
+      "Finn Surman",
+      true,
+      0
+    ],
+    [
+      "NZL 10",
+      "Joe Bell",
+      true,
+      0
+    ],
+    [
+      "NZL 11",
+      "Sarpreet Singh",
+      false,
+      0
+    ],
+    [
+      "NZL 12",
+      "Ryan Thomas",
+      true,
+      0
+    ],
+    [
+      "NZL 13",
+      "Foto da Equipe - Nova Zelândia",
+      false,
+      0
+    ],
+    [
+      "NZL 14",
+      "Matthew Garbett",
+      true,
+      0
+    ],
+    [
+      "NZL 15",
+      "Marko Stamenić",
+      true,
+      0
+    ],
+    [
+      "NZL 16",
+      "Ben Old",
+      false,
+      0
+    ],
+    [
+      "NZL 17",
+      "Chris Wood",
+      false,
+      0
+    ],
+    [
+      "NZL 18",
+      "Elijah Just",
+      true,
+      0
+    ],
+    [
+      "NZL 19",
+      "Callum McCowatt",
+      true,
+      0
+    ],
+    [
+      "NZL 20",
+      "Kosta Barbarouses",
+      false,
+      0
+    ]
+  ],
+  "Panamá (Grupo L)": [
+    [
+      "PAN 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "PAN 2",
+      "Orlando Mosquera",
+      true,
+      0
+    ],
+    [
+      "PAN 3",
+      "Luis Mejía",
+      true,
+      0
+    ],
+    [
+      "PAN 4",
+      "Fidel Escobar",
+      false,
+      0
+    ],
+    [
+      "PAN 5",
+      "Andrés Andrade",
+      false,
+      0
+    ],
+    [
+      "PAN 6",
+      "Michael Amir Murillo",
+      false,
+      0
+    ],
+    [
+      "PAN 7",
+      "Eric Davis",
+      false,
+      0
+    ],
+    [
+      "PAN 8",
+      "José Córdoba",
+      false,
+      0
+    ],
+    [
+      "PAN 9",
+      "César Blackman",
+      false,
+      0
+    ],
+    [
+      "PAN 10",
+      "Cristian Martínez",
+      false,
+      0
+    ],
+    [
+      "PAN 11",
+      "Aníbal Godoy",
+      false,
+      0
+    ],
+    [
+      "PAN 12",
+      "Adalberto Carrasquilla",
+      true,
+      0
+    ],
+    [
+      "PAN 13",
+      "Foto da Equipe - Panamá",
+      false,
+      0
+    ],
+    [
+      "PAN 14",
+      "Édgar Bárcenas",
+      true,
+      0
+    ],
+    [
+      "PAN 15",
+      "Carlos Harvey",
+      false,
+      0
+    ],
+    [
+      "PAN 16",
+      "Ismael Díaz",
+      false,
+      0
+    ],
+    [
+      "PAN 17",
+      "José Fajardo",
+      true,
+      0
+    ],
+    [
+      "PAN 18",
+      "Cecilio Waterman",
+      true,
+      0
+    ],
+    [
+      "PAN 19",
+      "José Luis Rodríguez",
+      false,
+      0
+    ],
+    [
+      "PAN 20",
+      "Alberto Quintero",
+      true,
+      0
+    ]
+  ],
+  "Paraguai (Grupo D)": [
+    [
+      "PAR 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "PAR 2",
+      "Roberto Fernandez",
+      false,
+      0
+    ],
+    [
+      "PAR 3",
+      "Orlando Gill",
+      false,
+      0
+    ],
+    [
+      "PAR 4",
+      "Gustavo Gomez",
+      true,
+      0
+    ],
+    [
+      "PAR 5",
+      "Fabián Balbuena",
+      true,
+      0
+    ],
+    [
+      "PAR 6",
+      "Juan José Cáceres",
+      false,
+      0
+    ],
+    [
+      "PAR 7",
+      "Omar Alderete",
+      true,
+      0
+    ],
+    [
+      "PAR 8",
+      "Junior Alonso",
+      true,
+      0
+    ],
+    [
+      "PAR 9",
+      "Mathías Villasanti",
+      false,
+      0
+    ],
+    [
+      "PAR 10",
+      "Diego Gomez",
+      false,
+      0
+    ],
+    [
+      "PAR 11",
+      "Damián Bobadilla",
+      false,
+      0
+    ],
+    [
+      "PAR 12",
+      "Andres Cubas",
+      true,
+      0
+    ],
+    [
+      "PAR 13",
+      "Foto da Equipe - Paraguai",
+      false,
+      0
+    ],
+    [
+      "PAR 14",
+      "Matias Galarza Fonda",
+      false,
+      0
+    ],
+    [
+      "PAR 15",
+      "Julio Enciso",
+      false,
+      0
+    ],
+    [
+      "PAR 16",
+      "Alejandro Romero Gamarra",
+      false,
+      0
+    ],
+    [
+      "PAR 17",
+      "Miguel Almirón",
+      false,
+      0
+    ],
+    [
+      "PAR 18",
+      "Ramon Sosa",
+      false,
+      0
+    ],
+    [
+      "PAR 19",
+      "Angel Romero",
+      false,
+      0
+    ],
+    [
+      "PAR 20",
+      "Antonio Sanabria",
+      true,
+      0
+    ]
+  ],
+  "Portugal (Grupo K)": [
+    [
+      "POR 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "POR 2",
+      "Diogo Costa",
+      false,
+      0
+    ],
+    [
+      "POR 3",
+      "Jose Sa",
+      true,
+      0
+    ],
+    [
+      "POR 4",
+      "Ruben Dias",
+      true,
+      0
+    ],
+    [
+      "POR 5",
+      "João Cancelo",
+      true,
+      0
+    ],
+    [
+      "POR 6",
+      "Diogo Dalot",
+      true,
+      0
+    ],
+    [
+      "POR 7",
+      "Nuno Mendes",
+      true,
+      0
+    ],
+    [
+      "POR 8",
+      "Gonçalo Inácio",
+      false,
+      0
+    ],
+    [
+      "POR 9",
+      "Bernardo Silva",
+      true,
+      0
+    ],
+    [
+      "POR 10",
+      "Bruno Fernandes",
+      false,
+      0
+    ],
+    [
+      "POR 11",
+      "Ruben Neves",
+      true,
+      0
+    ],
+    [
+      "POR 12",
+      "Vitinha",
+      false,
+      0
+    ],
+    [
+      "POR 13",
+      "Foto da Equipe - Portugal",
+      false,
+      0
+    ],
+    [
+      "POR 14",
+      "João Neves",
+      false,
+      0
+    ],
+    [
+      "POR 15",
+      "Cristiano Ronaldo",
+      true,
+      0
+    ],
+    [
+      "POR 16",
+      "Francisco Trincao",
+      true,
+      0
+    ],
+    [
+      "POR 17",
+      "João Felix",
+      false,
+      0
+    ],
+    [
+      "POR 18",
+      "Gonçalo Ramos",
+      true,
+      0
+    ],
+    [
+      "POR 19",
+      "Pedro Neto",
+      true,
+      0
+    ],
+    [
+      "POR 20",
+      "Rafael Leão",
+      true,
+      0
+    ]
+  ],
+  "Senegal (Grupo I)": [
+    [
+      "SEN 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "SEN 2",
+      "Edouard Mendy",
+      true,
+      0
+    ],
+    [
+      "SEN 3",
+      "Yehvann Diouf",
+      false,
+      0
+    ],
+    [
+      "SEN 4",
+      "Moussa Niakhaté",
+      true,
+      0
+    ],
+    [
+      "SEN 5",
+      "Abdoulaye Seck",
+      false,
+      0
+    ],
+    [
+      "SEN 6",
+      "Ismail Jakobs",
+      false,
+      0
+    ],
+    [
+      "SEN 7",
+      "El Hadji Malick Diouf",
+      true,
+      0
+    ],
+    [
+      "SEN 8",
+      "Kalidou Koulibaly",
+      false,
+      0
+    ],
+    [
+      "SEN 9",
+      "Idrissa Gana Gueye",
+      true,
+      0
+    ],
+    [
+      "SEN 10",
+      "Pape Matar Sarr",
+      false,
+      0
+    ],
+    [
+      "SEN 11",
+      "Pape Gueye",
+      true,
+      0
+    ],
+    [
+      "SEN 12",
+      "Habib Diarra",
+      true,
+      0
+    ],
+    [
+      "SEN 13",
+      "Foto da Equipe - Senegal",
+      true,
+      0
+    ],
+    [
+      "SEN 14",
+      "Lamine Camara",
+      false,
+      0
+    ],
+    [
+      "SEN 15",
+      "Sadio Mane",
+      true,
+      0
+    ],
+    [
+      "SEN 16",
+      "Ismaïla Sarr",
+      true,
+      0
+    ],
+    [
+      "SEN 17",
+      "Boulaye Dia",
+      true,
+      0
+    ],
+    [
+      "SEN 18",
+      "Iliman Ndiaye",
+      false,
+      0
+    ],
+    [
+      "SEN 19",
+      "Nicolas Jackson",
+      true,
+      1
+    ],
+    [
+      "SEN 20",
+      "Krepin Diatta",
+      true,
+      0
+    ]
+  ],
+  "Suécia (Grupo F)": [
+    [
+      "SWE 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "SWE 2",
+      "Victor Johansson",
+      true,
+      0
+    ],
+    [
+      "SWE 3",
+      "Isak Hien",
+      true,
+      0
+    ],
+    [
+      "SWE 4",
+      "Gabriel Gudmundsson",
+      false,
+      0
+    ],
+    [
+      "SWE 5",
+      "Emil Holm",
+      false,
+      0
+    ],
+    [
+      "SWE 6",
+      "Victor Nilsson Lindelöf",
+      true,
+      1
+    ],
+    [
+      "SWE 7",
+      "Gustaf Lagerbielke",
+      true,
+      0
+    ],
+    [
+      "SWE 8",
+      "Lucas Bergvall",
+      true,
+      0
+    ],
+    [
+      "SWE 9",
+      "Hugo Larsson",
+      false,
+      0
+    ],
+    [
+      "SWE 10",
+      "Jesper Karlström",
+      false,
+      0
+    ],
+    [
+      "SWE 11",
+      "Yasin Ayari",
+      false,
+      0
+    ],
+    [
+      "SWE 12",
+      "Mattias Svanberg",
+      false,
+      0
+    ],
+    [
+      "SWE 13",
+      "Foto da Equipe - Suécia",
+      true,
+      0
+    ],
+    [
+      "SWE 14",
+      "Daniel Svensson",
+      false,
+      0
+    ],
+    [
+      "SWE 15",
+      "Ken Sema",
+      false,
+      0
+    ],
+    [
+      "SWE 16",
+      "Roony Bardghji",
+      true,
+      0
+    ],
+    [
+      "SWE 17",
+      "Dejan Kulusevski",
+      false,
+      0
+    ],
+    [
+      "SWE 18",
+      "Anthony Elanga",
+      false,
+      0
+    ],
+    [
+      "SWE 19",
+      "Alexander Isak",
+      false,
+      0
+    ],
+    [
+      "SWE 20",
+      "Viktor Gyökeres",
+      true,
+      1
+    ]
+  ],
+  "Suíça (Grupo B)": [
+    [
+      "SUI 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "SUI 2",
+      "Gregor Kobel",
+      false,
+      0
+    ],
+    [
+      "SUI 3",
+      "Yvon Mvogo",
+      false,
+      0
+    ],
+    [
+      "SUI 4",
+      "Manuel Akanji",
+      true,
+      0
+    ],
+    [
+      "SUI 5",
+      "Ricardo Rodriguez",
+      true,
+      0
+    ],
+    [
+      "SUI 6",
+      "Nico Elvedi",
+      true,
+      0
+    ],
+    [
+      "SUI 7",
+      "Aurèle Amenda",
+      true,
+      0
+    ],
+    [
+      "SUI 8",
+      "Silvan Widmer",
+      false,
+      0
+    ],
+    [
+      "SUI 9",
+      "Granit Xhaka",
+      false,
+      0
+    ],
+    [
+      "SUI 10",
+      "Denis Zakaria",
+      true,
+      0
+    ],
+    [
+      "SUI 11",
+      "Remo Freuler",
+      true,
+      0
+    ],
+    [
+      "SUI 12",
+      "Fabian Rieder",
+      false,
+      0
+    ],
+    [
+      "SUI 13",
+      "Foto da Equipe - Suíça",
+      true,
+      0
+    ],
+    [
+      "SUI 14",
+      "Ardon Jashari",
+      false,
+      0
+    ],
+    [
+      "SUI 15",
+      "Johan Manzambi",
+      false,
+      0
+    ],
+    [
+      "SUI 16",
+      "Michel Aebischer",
+      false,
+      0
+    ],
+    [
+      "SUI 17",
+      "Breel Embolo",
+      false,
+      0
+    ],
+    [
+      "SUI 18",
+      "Ruben Vargas",
+      true,
+      0
+    ],
+    [
+      "SUI 19",
+      "Dan Ndoye",
+      false,
+      0
+    ],
+    [
+      "SUI 20",
+      "Zeki Amdouni",
+      false,
+      0
+    ]
+  ],
+  "Tchéquia (Grupo A)": [
+    [
+      "CZE 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "CZE 2",
+      "Matej Kovar",
+      false,
+      0
+    ],
+    [
+      "CZE 3",
+      "Jindrich Stanek",
+      false,
+      0
+    ],
+    [
+      "CZE 4",
+      "Ladislav Krejci",
+      true,
+      0
+    ],
+    [
+      "CZE 5",
+      "Vladimir Coufal",
+      false,
+      0
+    ],
+    [
+      "CZE 6",
+      "Jaroslav Zeleny",
+      false,
+      0
+    ],
+    [
+      "CZE 7",
+      "Tomas Holes",
+      false,
+      0
+    ],
+    [
+      "CZE 8",
+      "David Zima",
+      false,
+      0
+    ],
+    [
+      "CZE 9",
+      "Michal Sadilek",
+      true,
+      0
+    ],
+    [
+      "CZE 10",
+      "Lukas Provod",
+      true,
+      0
+    ],
+    [
+      "CZE 11",
+      "Lukas Cerv",
+      true,
+      0
+    ],
+    [
+      "CZE 12",
+      "Tomas Soucek",
+      false,
+      0
+    ],
+    [
+      "CZE 13",
+      "Foto da Equipe - Tchéquia",
+      false,
+      0
+    ],
+    [
+      "CZE 14",
+      "Pavel Sulc",
+      false,
+      0
+    ],
+    [
+      "CZE 15",
+      "Matej Vydra",
+      true,
+      0
+    ],
+    [
+      "CZE 16",
+      "Vasil Kusej",
+      false,
+      0
+    ],
+    [
+      "CZE 17",
+      "Tomas Chory",
+      false,
+      0
+    ],
+    [
+      "CZE 18",
+      "Vaclav Cerny",
+      true,
+      0
+    ],
+    [
+      "CZE 19",
+      "Adam Hlozek",
+      false,
+      0
+    ],
+    [
+      "CZE 20",
+      "Patrik Schick",
+      false,
+      0
+    ]
+  ],
+  "Tunísia (Grupo F)": [
+    [
+      "TUN 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "TUN 2",
+      "Bechir Ben Said",
+      false,
+      0
+    ],
+    [
+      "TUN 3",
+      "Aymen Dahmen",
+      false,
+      0
+    ],
+    [
+      "TUN 4",
+      "Yan Valery",
+      false,
+      0
+    ],
+    [
+      "TUN 5",
+      "Montassar Talbi",
+      false,
+      0
+    ],
+    [
+      "TUN 6",
+      "Yassine Meriah",
+      false,
+      0
+    ],
+    [
+      "TUN 7",
+      "Ali Abdi",
+      true,
+      0
+    ],
+    [
+      "TUN 8",
+      "Dylan Bronn",
+      false,
+      0
+    ],
+    [
+      "TUN 9",
+      "Ellyes Skhiri",
+      false,
+      0
+    ],
+    [
+      "TUN 10",
+      "Aissa Laidouni",
+      false,
+      0
+    ],
+    [
+      "TUN 11",
+      "Ferjani Sassi",
+      false,
+      0
+    ],
+    [
+      "TUN 12",
+      "Mohamed Ali Ben Romdhane",
+      true,
+      0
+    ],
+    [
+      "TUN 13",
+      "Foto da Equipe - Tunísia",
+      true,
+      0
+    ],
+    [
+      "TUN 14",
+      "Hannibal Mejbri",
+      false,
+      0
+    ],
+    [
+      "TUN 15",
+      "Elias Achouri",
+      false,
+      0
+    ],
+    [
+      "TUN 16",
+      "Elias Saad",
+      false,
+      0
+    ],
+    [
+      "TUN 17",
+      "Hazem Mastouri",
+      true,
+      1
+    ],
+    [
+      "TUN 18",
+      "Ismael Gharbi",
+      false,
+      0
+    ],
+    [
+      "TUN 19",
+      "Sayfallah Ltaief",
+      true,
+      0
+    ],
+    [
+      "TUN 20",
+      "Naim Sliti",
+      false,
+      0
+    ]
+  ],
+  "Türkiye (Grupo D)": [
+    [
+      "TUR 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "TUR 2",
+      "Ugurcan Cakir",
+      false,
+      0
+    ],
+    [
+      "TUR 3",
+      "Mert Muldur",
+      false,
+      0
+    ],
+    [
+      "TUR 4",
+      "Zeki Celik",
+      true,
+      1
+    ],
+    [
+      "TUR 5",
+      "Abdulkerim Bardakci",
+      false,
+      0
+    ],
+    [
+      "TUR 6",
+      "Caglar Soyuncu",
+      false,
+      0
+    ],
+    [
+      "TUR 7",
+      "Merih Demiral",
+      false,
+      0
+    ],
+    [
+      "TUR 8",
+      "Ferdi Kadioglu",
+      true,
+      0
+    ],
+    [
+      "TUR 9",
+      "Kaan Ayhan",
+      false,
+      0
+    ],
+    [
+      "TUR 10",
+      "Ismail Yuksek",
+      true,
+      0
+    ],
+    [
+      "TUR 11",
+      "Hakan Calhanoglu",
+      false,
+      0
+    ],
+    [
+      "TUR 12",
+      "Orkun Kokcu",
+      true,
+      1
+    ],
+    [
+      "TUR 13",
+      "Foto da Equipe - Türkiye",
+      false,
+      0
+    ],
+    [
+      "TUR 14",
+      "Arda Guler",
+      false,
+      0
+    ],
+    [
+      "TUR 15",
+      "Irfan Can Kahveci",
+      true,
+      0
+    ],
+    [
+      "TUR 16",
+      "Yunus Akgun",
+      false,
+      0
+    ],
+    [
+      "TUR 17",
+      "Can Uzun",
+      true,
+      0
+    ],
+    [
+      "TUR 18",
+      "Baris Alper Yilmaz",
+      false,
+      0
+    ],
+    [
+      "TUR 19",
+      "Kerem Akturkoglu",
+      false,
+      0
+    ],
+    [
+      "TUR 20",
+      "Kenan Yildiz",
+      false,
+      0
+    ]
+  ],
+  "Uruguai (Grupo H)": [
+    [
+      "URU 1",
+      "Escudo / Logo",
+      false,
+      0
+    ],
+    [
+      "URU 2",
+      "Sergio Rochet",
+      true,
+      0
+    ],
+    [
+      "URU 3",
+      "Santiago Mele",
+      false,
+      0
+    ],
+    [
+      "URU 4",
+      "Ronald Araujo",
+      true,
+      0
+    ],
+    [
+      "URU 5",
+      "José María Giménez",
+      false,
+      0
+    ],
+    [
+      "URU 6",
+      "Sebastian Caceres",
+      false,
+      0
+    ],
+    [
+      "URU 7",
+      "Mathias Olivera",
+      true,
+      0
+    ],
+    [
+      "URU 8",
+      "Guillermo Varela",
+      false,
+      0
+    ],
+    [
+      "URU 9",
+      "Nahitan Nandez",
+      true,
+      0
+    ],
+    [
+      "URU 10",
+      "Federico Valverde",
+      true,
+      1
+    ],
+    [
+      "URU 11",
+      "Giorgian De Arrascaeta",
+      true,
+      0
+    ],
+    [
+      "URU 12",
+      "Rodrigo Bentancur",
+      false,
+      0
+    ],
+    [
+      "URU 13",
+      "Foto da Equipe - Uruguai",
+      false,
+      0
+    ],
+    [
+      "URU 14",
+      "Manuel Ugarte",
+      false,
+      0
+    ],
+    [
+      "URU 15",
+      "Nicolás de la Cruz",
+      true,
+      0
+    ],
+    [
+      "URU 16",
+      "Maxi Araujo",
+      false,
+      0
+    ],
+    [
+      "URU 17",
+      "Darwin Núñez",
+      false,
+      0
+    ],
+    [
+      "URU 18",
+      "Federico Viñas",
+      false,
+      0
+    ],
+    [
+      "URU 19",
+      "Rodrigo Aguirre",
+      false,
+      0
+    ],
+    [
+      "URU 20",
+      "Facundo Pellistri",
+      false,
+      0
+    ]
+  ],
+  "USA (Grupo D)": [
+    [
+      "USA 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "USA 2",
+      "Math Freese",
+      false,
+      0
+    ],
+    [
+      "USA 3",
+      "Chris Richards",
+      false,
+      0
+    ],
+    [
+      "USA 4",
+      "Tim Ream",
+      false,
+      0
+    ],
+    [
+      "USA 5",
+      "Mark McKenzie",
+      false,
+      0
+    ],
+    [
+      "USA 6",
+      "Alex Freeman",
+      true,
+      0
+    ],
+    [
+      "USA 7",
+      "Antonee Robinson",
+      false,
+      0
+    ],
+    [
+      "USA 8",
+      "Tyler Adams",
+      false,
+      0
+    ],
+    [
+      "USA 9",
+      "Tanner Tessmann",
+      true,
+      1
+    ],
+    [
+      "USA 10",
+      "Weston McKenny",
+      true,
+      0
+    ],
+    [
+      "USA 11",
+      "Christian Roldan",
+      false,
+      0
+    ],
+    [
+      "USA 12",
+      "Timothy Weah",
+      true,
+      1
+    ],
+    [
+      "USA 13",
+      "Foto da Equipe - USA",
+      false,
+      0
+    ],
+    [
+      "USA 14",
+      "Diego Luna",
+      false,
+      0
+    ],
+    [
+      "USA 15",
+      "Malik Tillman",
+      false,
+      0
+    ],
+    [
+      "USA 16",
+      "Christian Pulisic",
+      false,
+      0
+    ],
+    [
+      "USA 17",
+      "Brenden Aaronson",
+      true,
+      0
+    ],
+    [
+      "USA 18",
+      "Ricardo Pepi",
+      true,
+      0
+    ],
+    [
+      "USA 19",
+      "Haji Wright",
+      false,
+      0
+    ],
+    [
+      "USA 20",
+      "Folarin Balogun",
+      false,
+      0
+    ]
+  ],
+  "Uzbequistão (Grupo K)": [
+    [
+      "UZB 1",
+      "Escudo / Logo",
+      true,
+      0
+    ],
+    [
+      "UZB 2",
+      "Utkir Yusupov",
+      false,
+      0
+    ],
+    [
+      "UZB 3",
+      "Farrukh Savfiev",
+      false,
+      0
+    ],
+    [
+      "UZB 4",
+      "Sherzod Nasrullaev",
+      false,
+      0
+    ],
+    [
+      "UZB 5",
+      "Umar Eshmurodov",
+      true,
+      0
+    ],
+    [
+      "UZB 6",
+      "Husniddin Aliqulov",
+      false,
+      0
+    ],
+    [
+      "UZB 7",
+      "Rustamjon Ashurmatov",
+      false,
+      0
+    ],
+    [
+      "UZB 8",
+      "Khojiakbar Alijonov",
+      true,
+      0
+    ],
+    [
+      "UZB 9",
+      "Abdukodir Khusanov",
+      false,
+      0
+    ],
+    [
+      "UZB 10",
+      "Odiljon Hamrobekov",
+      false,
+      0
+    ],
+    [
+      "UZB 11",
+      "Otabek Shukurov",
+      false,
+      0
+    ],
+    [
+      "UZB 12",
+      "Jamshid Iskanderov",
+      false,
+      0
+    ],
+    [
+      "UZB 13",
+      "Foto da Equipe - Uzbequistão",
+      false,
+      0
+    ],
+    [
+      "UZB 14",
+      "Azizbek Turgunboev",
+      true,
+      0
+    ],
+    [
+      "UZB 15",
+      "Khojimat Erkinov",
+      false,
+      0
+    ],
+    [
+      "UZB 16",
+      "Eldor Shomurodov",
+      false,
+      0
+    ],
+    [
+      "UZB 17",
+      "Oston Urunov",
+      true,
+      1
+    ],
+    [
+      "UZB 18",
+      "Jaloliddin Masharipov",
+      false,
+      0
+    ],
+    [
+      "UZB 19",
+      "Igor Sergeev",
+      true,
+      0
+    ],
+    [
+      "UZB 20",
+      "Abbosbek Fayzullaev",
+      false,
+      0
+    ]
+  ],
+  "Coca-Cola (Especiais)": [
+    [
+      "CC 1",
+      "Lamine Yamal (Espanha)",
+      true,
+      0
+    ],
+    [
+      "CC 2",
+      "Joshua Kimmich (Alemanha)",
+      false,
+      0
+    ],
+    [
+      "CC 3",
+      "Harry Kane (Inglaterra)",
+      true,
+      0
+    ],
+    [
+      "CC 4",
+      "Santiago Giménez (México)",
+      false,
+      0
+    ],
+    [
+      "CC 5",
+      "Joško Gvardiol (Croácia)",
+      false,
+      0
+    ],
+    [
+      "CC 6",
+      "Federico Valverde (Uruguai)",
+      true,
+      0
+    ],
+    [
+      "CC 7",
+      "Jefferson Lerma (Colômbia)",
+      false,
+      0
+    ],
+    [
+      "CC 8",
+      "Enner Valencia (Equador)",
+      false,
+      0
+    ],
+    [
+      "CC 9",
+      "Gabriel Magalhães (Brasil)",
+      true,
+      0
+    ],
+    [
+      "CC 10",
+      "Virgil van Dijk (Holanda)",
+      true,
+      0
+    ],
+    [
+      "CC 11",
+      "Alphonso Davies (Canadá)",
+      true,
+      0
+    ],
+    [
+      "CC 12",
+      "Emiliano Martínez (Argentina)",
+      true,
+      0
+    ],
+    [
+      "CC 13",
+      "Raúl Jiménez (México)",
+      true,
+      0
+    ],
+    [
+      "CC 14",
+      "Lautaro Martínez (Argentina)",
+      true,
+      0
+    ]
+  ]
+}
